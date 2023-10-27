@@ -1,1 +1,1 @@
-https://mattbeech.com/numerology/destiny-number/destiny-6/
+https://mattbeech.com/numerology/destiny-number/destiny-7/
