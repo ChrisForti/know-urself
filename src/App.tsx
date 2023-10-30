@@ -1,38 +1,28 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg' 
-import './App.css'
+import { Content } from "./components/Content";
+import { Header } from "./components/Header";
+import "./App.css";
+import { Container } from "./components/Container";
+import { useState } from "react";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const state = useState("default");
+  const text = state[0];
+  const setText = state[1];
+  function handleClick() {
+    setText("You pushed me");
+  }
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-          </button>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-             press button
-        </button>
-        <p>
-          Edit <code>src/app.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <Header />
+
+      <Container>hello world</Container>
+      <Container>
+        <Content content={text} />
+      </Container>
+      <button onClick={handleClick}>click me</button>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
