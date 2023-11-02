@@ -1,8 +1,8 @@
 import { Content } from "./components/Content";
 import { Header } from "./components/Header";
-import "./App.css";
 import { Container } from "./components/Container";
 import { useState } from "react";
+import { ThemeToggle } from "./components/ThemeToggle";
 
 function App() {
   const state = useState("default");
@@ -14,13 +14,8 @@ function App() {
 
   return (
     <>
-      <Header />
-
-      <Container>hello world</Container>
-      <Container>
-        <Content content={text} />
-      </Container>
-      <button onClick={handleClick}>click me</button>
+      <h1 className="text-7xl dark:text-white">testing</h1>
+      <ThemeToggle />
     </>
   );
 }
