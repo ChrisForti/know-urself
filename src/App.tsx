@@ -14,7 +14,9 @@ function App() {
 
   return (
     <>
-      <h1 className="text-7xl dark:text-white">testing</h1>
+      <h1 className="text-7xl dark:text-white">
+        My people are destroyed for lack of knowledge
+      </h1>
       <ThemeToggle />
     </>
   );
