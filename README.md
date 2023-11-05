@@ -1,10 +1,11 @@
 # Know Urself - Some catchy app description
 
-Some awesome description goes here
+This metaphysical website uses Pythagoras' ancient name numerology to assign a core number to your name based on it's vibrational essence.
 
 ## About The Project
 
-List some of the awesome features of this app
+This is a webpage that will calculate your destiny number, based on pythagorean numerology.
+Once your name number has been calculated, the site will give the corresponding number, and info page to the client.
 
 ### Built With
 
@@ -18,9 +19,6 @@ List some of the awesome features of this app
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-This is a webpage that will calculate your destiny number, based on pythagorean numerology.
-Once your name number has been calculated, the site will give the corresponding number, and info page to the client.
 
 &nbsp;
 &nbsp;
