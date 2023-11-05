@@ -19,8 +19,8 @@ List some of the awesome features of this app
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a webpage that will calculate your destiny number, based on pythagorean numerology.
+Once your name number has been calculated, the site will give the corresponding number, and info page to the client.
 
 &nbsp;
 &nbsp;
@@ -35,7 +35,6 @@ To get a local copy up and running follow these simple example steps.
 ```sh
 git clone https://github.com/ChrisForti/know-urself.git && cd know-urself
 ```
-
 
 2. You'll need node version 18 or higher (Optional).
 
