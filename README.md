@@ -1,11 +1,11 @@
-# Know Urself - Some catchy app description
+# Know Urself
 
 This metaphysical website uses Pythagoras' ancient name numerology to assign a core number to your name based on it's vibrational essence.
 
 ## About The Project
 
-This is a webpage that will calculate your destiny number, based on pythagorean numerology.
-Once your name number has been calculated, the site will give the corresponding number, and info page to the client.
+This webapp will calculate your destiny number, based on pythagorean numerology.
+Once your name number has been calculated, the site will give the corresponding number and info to the user.
 
 ### Built With
 
@@ -20,10 +20,11 @@ Once your name number has been calculated, the site will give the corresponding 
 
 ## Getting Started
 
-&nbsp;
-&nbsp;
+To try out the webapp, see the [demo](https://chrisforti.github.io/know-urself/)
 
 ## Installation
+
+This section lays out how to get the app running locally.
 
 &nbsp;
 &nbsp;
