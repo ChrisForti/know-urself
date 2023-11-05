@@ -1,28 +1,66 @@
-# React + TypeScript + Vite
+# Know Urself - Some catchy app description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Some awesome description goes here
 
-Currently, two official plugins are available:
+## About The Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+List some of the awesome features of this app
 
-## Expanding the ESLint configuration
+### Built With
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![html]
+![css]
+![javascript]
+![typescript]
+![vite]
+![react]
 
-- Configure the top-level `parserOptions` property like this:
+<!-- GETTING STARTED -->
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+&nbsp;
+&nbsp;
+
+## Installation
+
+&nbsp;
+&nbsp;
+
+1. Clone the repo and navigate to the repo:
+
+```sh
+git clone https://github.com/ChrisForti/know-urself.git && cd know-urself
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# know-urself
+
+2. You'll need node version 18 or higher (Optional).
+
+```sh
+   npm install npm@latest -g
+```
+
+3. Install dependencies.
+
+```sh
+   npm install
+```
+
+4. Start the development environment.
+
+```sh
+   npm run dev
+```
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[html]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5
+[css]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3
+[javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript
+[typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript
+[vite]: https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite
+[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react
