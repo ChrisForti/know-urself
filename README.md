@@ -20,7 +20,10 @@ Once your name number has been calculated, the site will give the corresponding 
 
 ## Getting Started
 
-To try out the webapp, see the [demo](https://chrisforti.github.io/know-urself/)
+On this site, simply enter your full name given at birth, and our destiny number calculator will instantly generate your number along with an in-depth analysis of its meaning.
+
+&nbsp;
+&nbsp;
 
 ## Installation
 
