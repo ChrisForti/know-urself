@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <button className={(count, setCount)}>x</button>
+      <button>x</button>
     </>
   );
 }
