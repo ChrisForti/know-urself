@@ -1,0 +1,28 @@
+.sidebar {
+  background: #f5f6f7;
+  min-width: 320px;
+}
+
+.linkContainer {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+  padding: 0 1rem;
+}
+
+.linkContainer li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #9fa3a6;
+}
+
+.linkContainer li > a {
+  color: #3d4449;
+  text-decoration: none;
+  transition: color 0.4s ease-in-out;
+}
+
+.linkContainer li:hover > a {
+  color: #f56a6a;
+}
