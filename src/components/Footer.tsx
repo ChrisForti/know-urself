@@ -1,3 +1,3 @@
 export function Footer() {
-  return <div>Footer</div>;
+  return <div>Footer time M'fer</div>;
 }
