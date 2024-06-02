@@ -1,6 +1,7 @@
 .sidebar {
   background: #f5f6f7;
-  min-width: 320px;
+  width: 320px;
+  transition: left 200ms ease-in-out;
 }
 
 .linkContainer {
@@ -25,4 +26,28 @@
 
 .linkContainer li:hover > a {
   color: #f56a6a;
+}
+
+.button {
+  display: none;
+  position: fixed;
+  left: 0;
+  margin-left: 1rem;
+  transition: left 200ms ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    margin-left: -320px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  .button {
+    display: block;
+  }
+  .show {
+    left: 320px;
+  }
 }

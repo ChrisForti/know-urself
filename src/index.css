@@ -1,21 +1,22 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
-  
 }
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
-  min-height: 100vw;
+  min-height: 100vh;
   background: white;
 }
 
 #root {
+  box-shadow: 0 0 5px 5px #f5f6f7;
   max-width: 1280px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
-
-
