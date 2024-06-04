@@ -1,6 +1,6 @@
-import styles from "./numero1.module.css";
+import styles from "./One.module.css";
 
-export function numero1() {
+export function One() {
   return (
     <div className={styles.one}>
       <h1>What Does Destiny Number 1 Mean?</h1>

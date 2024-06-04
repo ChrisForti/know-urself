@@ -1,5 +1,5 @@
-import { numero1 } from "./numerology/numero1";
+import { One } from "./numerology/One";
 
 export function Content() {
-  return numero1();
+  return <One />;
 }
