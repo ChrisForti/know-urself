@@ -1,3 +1,5 @@
+import { numero1 } from "./numerology/numero1";
+
 export function Content() {
-  return <main>Content</main>;
+  return numero1();
 }
