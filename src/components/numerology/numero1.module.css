@@ -1,3 +1,8 @@
-.h1 {
+.one {
   color: black;
+  text-align: center;
+}
+
+.h1 {
+  font-size: x-larger;
 }
