@@ -6,7 +6,7 @@ export function Sidebar() {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <h2>Sidebar</h2>
+      <h2 className={styles.h2}>Sidebar</h2>
       <ul className={styles.linkContainer}>
         <li>
           <a href="#">link 1</a>

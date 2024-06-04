@@ -6,6 +6,10 @@
   transition: left 200ms ease-in-out;
 }
 
+.h2 {
+  text-align: center;
+}
+
 .linkContainer {
   list-style: none;
   display: flex;
