@@ -11,7 +11,7 @@ export function Sidebar() {
       <h2 className={styles.h2}>Destiny numbers 1 thru 9</h2>
       <ul className={styles.linkContainer}>
         <li>
-          <a href="#">Number 1</a>
+          <a href="#">Life Path 1</a>
         </li>{" "}
         <li>
           <a href="#">link 2</a>
