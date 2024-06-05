@@ -77,6 +77,27 @@ export function One() {
         reading. It will explain your personality code and unlock your hidden
         potential.
       </p>
+      <em>Staying Independent</em>
+      <p>
+        People in power have the luxury of being independent, which is a natural
+        1 trait you have. But once you have established a leadership in work, in
+        family, in your lifestyle, it is easy to let that slip away. You might
+        have employees who want to be promoted up to a partnership. You might
+        find a spouse who is as dominant as you are, and clash in your views.
+        You need to associate with people who suit your domineering 1
+        personality. In staff, you should look for submissive but intuitive
+        people who work to your 1 standards but are dependant upon you for your
+        lead. They will not try to take your independent leadership from you. In
+        a romantic partner, find someone who is okay with taking a backseat in
+        the relationship. Someone who is okay with you planning all the family
+        activities, being the sole breadwinner, with you not confiding hardships
+        in them so you can solve problems alone. But know that it is okay to ask
+        for help when you need it, and know to take others opinions into
+        consideration. Being selfish will not help you stay independent. Take
+        breaks if your family recommends it. Let your partner take you out on
+        dates, giving them the power. Really, you need to find a balance in
+        staying independent and knowing what scenarios you can give it up in.
+      </p>
     </div>
   );
 }
