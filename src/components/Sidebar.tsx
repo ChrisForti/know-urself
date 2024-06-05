@@ -8,10 +8,10 @@ export function Sidebar() {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <h2 className={styles.h2}>Sidebar</h2>
+      <h2 className={styles.h2}>Destiny numbers 1 thru 9</h2>
       <ul className={styles.linkContainer}>
         <li>
-          <a href="#">link 1</a>
+          <a href="#">Number 1</a>
         </li>{" "}
         <li>
           <a href="#">link 2</a>
