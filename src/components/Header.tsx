@@ -4,7 +4,6 @@ export function Header() {
   return (
     <header className={styles.header}>
       <span>Know Urself</span>
-      <div></div>
     </header>
   );
 }
