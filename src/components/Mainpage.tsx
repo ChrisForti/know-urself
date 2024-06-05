@@ -3,7 +3,7 @@ import styles from "./Mainpage.module.css";
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <h2>In my experience I wondered aimlessly until I truly knew myself.</h2>
+      <h2>In my experience I wandered aimlessly until I truly knew myself.</h2>
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
