@@ -1,5 +1,7 @@
 import { useState } from "react";
 import styles from "./Sidebar.module.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 export function Sidebar() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -33,7 +35,7 @@ export function Sidebar() {
           setSidebarOpen(!sidebarOpen);
         }}
       >
-        X
+        <FontAwesomeIcon icon={faBars} />
       </button>
     </aside>
   );
