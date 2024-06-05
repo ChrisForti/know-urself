@@ -14,6 +14,7 @@ function App() {
       <div className={styles.mainContainer}>
         <Sidebar />
         <Mainpage />
+        {/* <Content /> */}
       </div>
     </>
   );
