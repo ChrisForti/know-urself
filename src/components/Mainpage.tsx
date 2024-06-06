@@ -10,8 +10,10 @@ export function Mainpage() {
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
-        date or name. This app will calculate take each letter of your name
-        convert it to an integer, and add together.
+        date or name. This app will convert each letter of your name, to its
+        corresponding integer. Then add them together, and reducing each double
+        integer to a single integer.{Which will leave us with your root number.
+        <em>Which will leave us with your root number.</em>
       </p>
       <em>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</em>
       <h2>In my experience I wondered aimlessly until I truly knew myself.</h2>
