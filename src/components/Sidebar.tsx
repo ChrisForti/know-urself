@@ -3,30 +3,30 @@ import styles from "./Sidebar.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 
-export function Sidebar() {
+type SidebarProps = {
+  setChoice: React.Dispatch<React.SetStateAction<number>>;
+};
+
+export function Sidebar({ setChoice }: SidebarProps) {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
       <h2 className={styles.h2}>Destiny numbers 1 thru 9</h2>
       <ul className={styles.linkContainer}>
-        <li>
-          <a href="#">Life Path 1</a>
-        </li>{" "}
-        <li>
-          <a href="#">link 2</a>
-        </li>{" "}
-        <li>
-          <a href="#">link 3</a>
-        </li>{" "}
-        <li>
-          <a href="#">link 4</a>
-        </li>{" "}
-        <li>
-          <a href="#">link 5</a>
-        </li>{" "}
-        <li>
-          <a href="#">link 6</a>
+        <li
+          onClick={() => {
+            setChoice(0);
+          }}
+        >
+          <a href="#">Home</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(1);
+          }}
+        >
+          <a href="#">Numero 1</a>
         </li>
       </ul>
       <button

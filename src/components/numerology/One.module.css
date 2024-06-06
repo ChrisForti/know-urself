@@ -1,9 +1,13 @@
 .one {
-  color: black;
+  /* color: black; */
   text-align: center;
-  background-color: #d8e3e9;
 }
 
 .h1 {
   font-size: x-larger;
+}
+
+.em {
+  font-size: x-large;
+  color: #f56a6a;
 }

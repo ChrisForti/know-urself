@@ -40,8 +40,8 @@ export function Mainpage() {
           O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8.
         </li>
         <li>
-          Add up each of these numbers, then reduce the result until you have a
-          single digit number.
+          the app will add up each of these numbers, then reduce the result
+          until we have a single digit number.
         </li>
       </ul>
     </main>

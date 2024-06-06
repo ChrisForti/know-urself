@@ -8,7 +8,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
+  height: 100vh;
   background: white;
 }
 
@@ -18,5 +18,5 @@ body {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
 }
