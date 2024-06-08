@@ -6,29 +6,30 @@ export function Five() {
       <h1>What Does Destiny Number 5 Mean?</h1>
       <em>Carefree, adventurous, witty, progressive, enthusiastic…</em>
       <p>
-        Destiny number 5 is all about communication. You’re an incredible
+        Destiny number 5 is all about communication. You are an incredible
         communicator, talking with old people and new people in different ways.
         You need a variety of people in your life to be happy. You can use your
-        knack for communication to make new friends as you go through life.
-        You’ll be making new friends a lot, as you tend to outgrow your old ones
-        most of the time. It’s because you’re so restless as a destiny number 5.
+        knack for communication to make new friends as you go through life. You
+        will be making new friends a lot, as you tend to outgrow your old ones
+        most of the time. Its because you are so restless as a destiny number 5.
         You need to travel, explore new places and new cultures. You have no
         time for people holding you back. You adore change and newness, number
-        5. You thrive on it. You get bored too quickly and this keeps you
-        occupied. Your attention span is too low to stay in one place. This
-        sounds like a downer, but is it really, number 5? It makes you
-        progressive, adaptive and adventurous. You can have fun anywhere and
-        handle whatever life throws at you. But try not to be too critical of
-        whatever comes your way. That’s something you need to work on as a
-        number 5. Also, try to work on your need for escapism—you should be
-        doing things for enjoyment, not to run away. Instead of running away
-        from life number 5, maybe you could start a changeable career. It’s
-        something that could keep your short attention span under control, keep
-        you busy, but keep you anchored. There’s no room for escapism now. To
-        find a career that’s truly aligned with your highest good look at every
-        number in your numerology chart. Not just your destiny number. You soul
-        urge, expression, life path and personality numbers all influence your
-        path through life.
+        5. You thrive on it.
+        <em>Number 5 downsides</em>
+        <p>
+          You get bored too quickly and this keeps you occupied. Your attention
+          span is too low to stay in one place. This sounds like a downer, but
+          is it really? It makes you progressive, adaptive and adventurous. You
+          can have fun anywhere and handle whatever life throws at you. But try
+          not to be too critical of whatever comes your way. That is something
+          you need to work on as a number 5. Also, try to work on your need for
+          escapism—you should be doing things for enjoyment, not to run away.
+          Instead of running away from life number 5, maybe you could start a
+          changeable career. Its something that could keep your short attention
+          span under control, keep you busy, but keep you anchored. There is no
+          room for escapism now. To find a career that is truly aligned with
+          your highest good look at every
+        </p>
       </p>
       <h2>Adventure as a 5</h2>
       <em>your an adventurer, an explorer, right to the core.</em>
