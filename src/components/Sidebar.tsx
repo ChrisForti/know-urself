@@ -42,6 +42,13 @@ export function Sidebar({ setChoice }: SidebarProps) {
         >
           <a href="#">Numero 3</a>
         </li>
+        <li
+          onClick={() => {
+            setChoice(4);
+          }}
+        >
+          <a href="#">Numero 4</a>
+        </li>
       </ul>
       <button
         className={`${styles.button} ${sidebarOpen ? styles.show : ""}`}
