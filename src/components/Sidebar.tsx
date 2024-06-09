@@ -75,37 +75,35 @@ export function Sidebar({ setChoice }: SidebarProps) {
             setChoice(8);
           }}
         >
-          <a href="#">
-            Numero 8{" "}
-            <li
-              onClick={() => {
-                setChoice(9);
-              }}
-            >
-              <a href="#">Numero 9</a>
-            </li>
-            <li
-              onClick={() => {
-                setChoice(11);
-              }}
-            >
-              <a href="#">Master number 11</a>
-            </li>
-            <li
-              onClick={() => {
-                setChoice(22);
-              }}
-            >
-              <a href="#">Master number 22</a>
-            </li>
-            <li
-              onClick={() => {
-                setChoice(33);
-              }}
-            >
-              <a href="#">Master number 33</a>
-            </li>
-          </a>
+          <a href="#">Numero 8</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(9);
+          }}
+        >
+          <a href="#">Numero 9</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(11);
+          }}
+        >
+          <a href="#">Master numuero 11</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(22);
+          }}
+        >
+          <a href="#">Master numuero 22</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(33);
+          }}
+        >
+          <a href="#">Master numuero 33</a>
         </li>
       </ul>
       <button
