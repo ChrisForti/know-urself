@@ -39,21 +39,21 @@ export function Nine() {
         <p>
           You have selflessness that most people lack. Selective humanity that
           knows your lifestyle is not universal. You respect those with less and
-          treat them with kindness. You care for them when it’s within your
+          treat them with kindness. You care for them when it is within your
           means, number 9. Parts of your personality are beautiful. Kindness is
-          one of your better characteristics and selflessness. Even when they
-          don’t have much, nines take chances and give what little they have to
-          those with bigger hardships. Material possessions aren’t that
+          one of your better characteristics and selflessness. Even when they do
+          not have much, nines take chances and give what little they have to
+          those with bigger hardships. Material possessions are not that
           important to you and others need the gifts, number 9. Yet you have a
-          side of you that deems many people aren’t worthy of your time.
+          side of you that deems many people are not worthy of your time.
         </p>
         You will only spend energy on those you think are up to your standards,
-        number 9. That’s one of the challenges you’ll face in life and it might
-        put you in a difficult position or two. Take note of the opportunities
-        you give to those in need. The strength you offer. You don’t seek fame
-        or worship from helping. You get no benefit. You’re kind and selfless.
-        So why is it that in other areas of life you’re selfish, and deem almost
-        nothing as worth your time?
+        number 9. That is one of the challenges you will face in life, and it
+        might put you in a difficult position or two. Take note of the
+        opportunities you give to those in need. The strength you offer, is you
+        do not seek fame or worship from helping. You get no benefit, and your
+        kind and selfless. So why is it that in other areas of life you are
+        selfish, and deem almost nothing as worth your time?
       </p>
       <h2>Sensitivity</h2>
       <p>
