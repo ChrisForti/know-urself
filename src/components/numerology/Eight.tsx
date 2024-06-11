@@ -9,23 +9,27 @@ export function Eight() {
         organized, successful…
       </em>
       <p>
-        Destiny number 8, you’re a success. Your natural ability to lead and
+        Destiny number 8, you are a success. Your natural ability to lead and
         your commitment to hard work grant you this. Destiny number 8 people
         make near-perfect leaders because of their responsible nature, but
         almost is the operative word here. Go too far and you get competitive.
-        And not only in the friendly competition way. You’re likely to win any
-        competition because you’re organized and you put in the work, destiny
-        number 8. However, your distrustful and intolerant nature may make it
-        harder for you to excel when the competition comes. Balance is tricky
-        for you, with an 8 destiny. Keeping work ambition and family challenges
-        separate. But your stubbornness and refusal to give in should help you
-        deal with stress. As you progress, you learn to deal. Proper navigation
-        through each adventure is key. You may also find that if your soul urge
-        or life path number is a 1 then your ability to lead will be magnified.
-        These numbers blend with your destiny number to create your unique soul
+        And not only in the friendly competition way. Your likely to win any
+        competition because you are organized and you put in the work, destiny
+        number 8.
+      </p>
+      <em>
+        However, your distrustful and intolerant nature may make it harder for
+        you to excel when the competition comes.
+      </em>
+      <p>
+        Keeping work ambition and family challenges separate, is tricky for you.
+        Your stubbornness and refusal to give in should help you deal with
+        stress. As you progress, you learn to deal. Proper navigation through
+        each adventure is key. You may also find that if your soul urge or life
+        path number is a 1 then your ability to lead will be magnified. These
+        numbers blend with your destiny number to create your unique soul
         blueprint and life potential. To discover how your numbers blend
-        together, click here for a free numerology reading. It covers your core
-        numbers and explores the relationship between them.
+        together.
       </p>
       <h2>A Career in Authority</h2>
       <p>
