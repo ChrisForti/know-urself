@@ -32,31 +32,43 @@ export function Eight() {
         together.
       </p>
       <h2>A Career in Authority</h2>
-      <em>You have authority over so much, destiny number 8.</em>
+      <em>This alone, makes careers hard for you, as you need to be on top.</em>
       <p>
-        You are a leader number 8. This alone, makes careers hard for you, as
-        you need to be on top. You need to be in power, or it probably will not
-        work out. Eights tend to be entrepreneurs and risk-takers in their
-        careers. Forgoing that, you’re suited to a career in military,
+        You are a leader number 8. You need to be in power, or it probably will
+        not work out. Eights tend to be entrepreneurs and risk-takers in their
+        careers. Forgoing that, you are suited to a career in military,
         government, finance or banking—so long as you can work your way to the
-        top. You’re powerful and need a career that’ll reward you for your hard
-        work. People with destiny number 8 excel beyond any other destiny
+        top. You are powerful and need a career that will reward you for your
+        hard work. People with destiny number 8 excel beyond any other destiny
         number. Your pursuit of power drives you past the boundaries. Your
         mission is to get through obstacles that stand in your way to the top,
-        and stay there. That’s why, in most cases, you won’t be suited to a
-        career that doesn’t put you in a leadership position. Your intolerance
-        is clear. Even if you can’t get a job with true power, eights make
-        excellent managers. As a destiny number eight, you have the organization
-        and leadership qualities for it. Under a circumstance where you do find
-        comfort in a power-free job, you’re the perfect employee, destiny number
-        8. You’re a great motivator of your peers and a hand-working mastermind.
-        You’ll probably climb your way to the top, intentional or not. But you
+        and stay there.
+      </p>
+      <em>
+        That is why, in most cases, you will not be suited to a career that does
+        not put you in a leadership position.
+      </em>
+      <p>
+        Your intolerance is clear. Even if you can not get a job with true
+        power, eights make excellent managers. As a destiny number eight, you
+        have the organization and leadership qualities for it.
+      </p>
+      <em>
+        Under a circumstance where you do find comfort in a power-free job, you
+        are the perfect employee, destiny number 8.
+      </em>
+      <p>
+        You are a great motivator of your peers and a hard-working mastermind.
+        You will probably climb your way to the top, intentional or not. But you
         need to be very careful with your ambitions here. It can put a strain on
         your relationship as you neglect family to focus on work. Since failures
-        aren’t your forté, you should aim for a balance. Focus on what matters,
-        the loved ones who fill your heart and soul, and don’t let work
-        influence you to turn away from them.
+        are not your forté, you should aim for a balance.
       </p>
+      <em>
+        Focus on what matters, the loved ones who fill your heart and soul, and
+        don’t let work influence you to turn away from them.
+      </em>
+
       <h2>Determination to Succeed</h2>
       <p>
         Individuality is a gift, destiny number 8. And being the type of
