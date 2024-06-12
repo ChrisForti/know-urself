@@ -89,21 +89,21 @@ export function Sidebar({ setChoice }: SidebarProps) {
             setChoice(11);
           }}
         >
-          <a href="#">Master numuero 11</a>
+          <a href="#">Master numero 11</a>
         </li>
         <li
           onClick={() => {
             setChoice(22);
           }}
         >
-          <a href="#">Master numuero 22</a>
+          <a href="#">Master numero 22</a>
         </li>
         <li
           onClick={() => {
             setChoice(33);
           }}
         >
-          <a href="#">Master numuero 33</a>
+          <a href="#">Master numero 33</a>
         </li>
       </ul>
       <button
