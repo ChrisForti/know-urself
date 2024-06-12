@@ -3,6 +3,7 @@ import styles from "./App.module.css";
 import { Sidebar } from "./components/Sidebar";
 import { Content } from "./components/Content";
 import { Header } from "./components/Header";
+import { Footer } from "./components/Footer";
 
 function App() {
   const [choice, setChoice] = useState(0);
@@ -14,6 +15,7 @@ function App() {
         <Sidebar setChoice={setChoice} />
         <Content choice={choice} />
       </div>
+      <Footer />
     </>
   );
 }

@@ -58,7 +58,8 @@ export function Eight() {
         are the perfect employee, destiny number 8.
       </em>
       <p>
-        You are a great motivator of your peers and a hard-working mastermind.
+        You are a great motivator of your peers and a hard-working mastermind.{" "}
+        <br />
         You will probably climb your way to the top, intentional or not. But you
         need to be very careful with your ambitions here. It can put a strain on
         your relationship as you neglect family to focus on work. Since failures
@@ -66,31 +67,35 @@ export function Eight() {
       </p>
       <em>
         Focus on what matters, the loved ones who fill your heart and soul, and
-        don’t let work influence you to turn away from them.
+        do not let work influence you to turn away from them.
       </em>
-
       <h2>Determination to Succeed</h2>
       <p>
-        Individuality is a gift, destiny number 8. And being the type of
+        Individuality is a gift, destiny number 8. <br /> And being the type of
         individual you are, a hard-working one focused on the liberation of
         yourself, can be a challenge. Why do people want to be on top? For
         attention? To do good and reap a reward? Or is it for freedom? The
-        freedom that respected leaders have to be themselves. It’s one of the
-        benefits of being on top. It’s most likely your darker traits that push
-        you to be independent. You’re distrustful of others. Paranoid that
-        everyone’s out to get you. Suspicious of the competition. You need to be
-        free and operate alone. Being successful at work will help you better
-        yourself, destiny number 8. Once you’re on top of your game, there’s no
-        need to be suspicious that anyone’s trying to beat you to it. Just be
-        careful not to let your conservative beliefs and unemotional nature get
-        in the way once you hit the top. Your determination to succeed may also
-        help with your tendency to neglect relationships, number 8. Once you
-        succeed in business, you’re out of the race. Giving you plenty of time
-        to mend broken relationships and start new ones. If you’re struggling
-        with love relationships, people, life and family, just hold on to the
-        need to succeed. You can succeed in more than just work, you know. Being
-        successful in a career brings money. Being successful in relationships
-        brings another kind of wealth to your soul, number 8.
+        freedom that respected leaders have to be themselves. It is one of the
+        benefits of being on top.
+      </p>
+      <em>
+        Its most likely your darker traits that push you to be independent.
+      </em>
+      <p>
+        You are distrustful of others, paranoid that everyone is out to get you,
+        suspicious of the competition. You need to be free and operate alone.
+        Being successful at work will help you better yourself, destiny number
+        8. Once you’re on top of your game, there’s no need to be suspicious
+        that anyone’s trying to beat you to it. Just be careful not to let your
+        conservative beliefs and unemotional nature get in the way once you hit
+        the top. Your determination to succeed may also help with your tendency
+        to neglect relationships, number 8. Once you succeed in business, you’re
+        out of the race. Giving you plenty of time to mend broken relationships
+        and start new ones. If you’re struggling with love relationships,
+        people, life and family, just hold on to the need to succeed. You can
+        succeed in more than just work, you know. Being successful in a career
+        brings money. Being successful in relationships brings another kind of
+        wealth to your soul, number 8.
       </p>
       <h2>Distrust</h2>
       <p>
