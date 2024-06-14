@@ -13,18 +13,21 @@ import { Nine } from "./numerology/Nine";
 type ContentProps = { choice: number };
 
 export function Content({ choice }: ContentProps) {
-  const pages = [
-    <Mainpage />,
-    <One />,
-    <Two />,
-    <Three />,
-    <Four />,
-    <Five />,
-    <Six />,
-    <Seven />,
-    <Eight />,
-    <Nine />,
-  ];
+  const pages: { [key: number]: JSX.Element } = {
+    0: <Mainpage />,
+    1: <One />,
+    2: <Two />,
+    3: <Three />,
+    4: <Four />,
+    5: <Five />,
+    6: <Six />,
+    7: <Seven />,
+    8: <Eight />,
+    9: <Nine />,
+    11: <Mainpage />,
+    22: <Mainpage />,
+    33: <Mainpage />,
+  };
 
   return <main className={styles.main}>{pages[choice]}</main>;
 }

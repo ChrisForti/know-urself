@@ -15,7 +15,7 @@ function App() {
         <Sidebar setChoice={setChoice} />
         <Content choice={choice} />
       </div>
-      <Footer />
+      <Footer setChoice={setChoice} />
     </>
   );
 }
