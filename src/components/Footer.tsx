@@ -1,5 +1,5 @@
 import styles from "./Footer.module.css";
-import { EntryBox } from "./EntryBox";
+import { EntryBox } from "./Input";
 
 type FooterProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
