@@ -12,7 +12,9 @@ export function Sidebar({ setChoice }: SidebarProps) {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <h2 className={styles.h2}>Destiny numbers 1 thru 9</h2>
+      <h2 className={styles.h2}>
+        Root numbers 1 thru 9 <br /> Master numbers 11, 22, 33
+      </h2>
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
