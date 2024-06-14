@@ -1,4 +1,4 @@
-import styles from "./EntryBox.module.css";
+import styles from "./Input.module.css";
 import { useState } from "react";
 import { getGematriaValue } from "../gematria-logic";
 
@@ -13,7 +13,7 @@ export function EntryBox({ setChoice }: EntryBoxProps) {
     setChoice(getGematriaValue(value));
   }
   return (
-    <form className={styles.entrybox} onSubmit={handleSubmit}>
+    <form className={styles.input} onSubmit={handleSubmit}>
       <input
         type="text"
         value={value}
