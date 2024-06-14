@@ -2,11 +2,11 @@ import styles from "./Input.module.css";
 import { useState } from "react";
 import { getGematriaValue } from "../gematria-logic";
 
-type EntryBoxProps = {
+type InputProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
 };
 
-export function EntryBox({ setChoice }: EntryBoxProps) {
+export function Input({ setChoice }: InputProps) {
   const [value, setValue] = useState("");
   function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
