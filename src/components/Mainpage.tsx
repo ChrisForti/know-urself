@@ -3,16 +3,16 @@ import Myimage from "../assets/istockphoto-1197499442-1024x1024.jpg";
 
 export function Mainpage() {
   return (
-    <main>
+    <main className={styles.main}>
       <img src={Myimage} width="600px" height="600px" />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
         date or name. This app will convert each letter of your name, to its
         corresponding integer. Then add them together, and reducing each double
-        integer to a single integer. <br />
-        <b> Which will leave us with your root number.</b>
+        integer to a single integer.
       </p>
+      <b> Which will leave us with your root number.</b>
       <h2>In my experience I wandered aimlessly until I truly knew myself.</h2>
       <span>
         <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
