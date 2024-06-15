@@ -14,6 +14,7 @@ export function Input({ setChoice }: InputProps) {
   }
   return (
     <form className={styles.input} onSubmit={handleSubmit}>
+      <div>Enter full name</div>
       <input
         type="text"
         value={value}
