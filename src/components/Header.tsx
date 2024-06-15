@@ -8,8 +8,8 @@ type HeaderProps = {
 export function Header({ setChoice }: HeaderProps) {
   return (
     <header className={styles.header}>
-      <span>Know Urself</span>
       <Input setChoice={setChoice} />
+      <span>Know Urself</span>
     </header>
   );
 }
