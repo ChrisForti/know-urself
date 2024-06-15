@@ -1,10 +1,10 @@
 import styles from "./Mainpage.module.css";
-import Myimage from "../assets/istockphoto-1197499442-1024x1024.jpg";
+import Myimage from "../assets/roman-mager-5mZ_M06Fc9g-unsplash.jpg";
 
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <img src={Myimage} width="600px" height="600px" />
+      <img src={Myimage} width="1000px" height="500px" />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
