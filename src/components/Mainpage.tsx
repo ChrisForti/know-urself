@@ -1,10 +1,12 @@
 import styles from "./Mainpage.module.css";
-import Myimage from "../assets/roman-mager-5mZ_M06Fc9g-unsplash.jpg";
+import Myimage from "../assets/alex-block-PdDBTrkGYLo-unsplash (1).jpg";
+import Myimage2 from "../assets/istockphoto-1197499442-1024x1024.jpg";
+import Pyscave from "../assets/makis-hristaras-5oZgQ2VQpz8-unsplash.jpg";
 
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <img src={Myimage} width="1000px" height="500px" />
+      <img src={Myimage} width="800px" height="500px" />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
@@ -13,16 +15,17 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
+      <img src={Myimage2} width="800px" height="500px" />
       <h2>In my experience I wandered aimlessly until I truly knew myself.</h2>
-      <span>
-        <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
 
-        <h4>
-          "Knowing others is intelligence; knowing yourself is true wisdom.
-          Mastering others is strength; mastering yourself is true power."
-          ~~Laozi~~
-        </h4>
-      </span>
+      <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
+
+      <h4>
+        "Knowing others is intelligence; knowing yourself is true wisdom.
+        Mastering others is strength; mastering yourself is true power."
+        ~~Laozi~~
+      </h4>
+      <img src={Pyscave} width="800px" height="500px" />
       <ul>
         <h2>
           Your Expression Number reveals your strengths and weaknesses. Also
