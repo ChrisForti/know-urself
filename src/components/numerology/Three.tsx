@@ -3,7 +3,9 @@ import styles from "./Three.module.css";
 export function Three() {
   return (
     <div className={styles.three}>
-      <h1>What Does Destiny Number 3 Mean?</h1>
+      <h1>
+        What Does Destiny Number 3 Mean for <b>leigh ann</b> ?
+      </h1>
       <p>
         Being a number 3, makes you a true artist and entertainer. Expressing
         your truth in creative, joyful and uplifting ways. Destiny 3s achieve
