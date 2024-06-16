@@ -15,17 +15,14 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Myimage2} width="400px" height="400px" />
-      <h2>In my experience I wandered aimlessly until I truly knew myself.</h2>
-
+      <img src={Pyscave} width="800px" height="800px" />
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
-
       <h4>
-        "Knowing others is intelligence; knowing yourself is true wisdom.
-        Mastering others is strength; mastering yourself is true power."
-        ~~Laozi~~
+        “Mastering others is strength; mastering oneself is true power” ~~Lao
+        Tsu~~
       </h4>
-      <img src={Pyscave} width="800px" height="500px" />
+      <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
+      <img src={Myimage2} width="400px" height="400px" />
       <ul>
         <h2>
           Your Expression Number reveals your strengths and weaknesses. Also
