@@ -1,6 +1,6 @@
 import styles from "./Mainpage.module.css";
 import Myimage from "../assets/alex-block-PdDBTrkGYLo-unsplash (1).jpg";
-import Myimage2 from "../assets/istockphoto-1197499442-1024x1024.jpg";
+import Myimage2 from "../assets/resource-database-TIUyoNGM0no-unsplash (1).jpg";
 import Pyscave from "../assets/makis-hristaras-5oZgQ2VQpz8-unsplash.jpg";
 
 export function Mainpage() {
@@ -15,7 +15,7 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Myimage2} width="800px" height="500px" />
+      <img src={Myimage2} width="400px" height="400px" />
       <h2>In my experience I wandered aimlessly until I truly knew myself.</h2>
 
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
