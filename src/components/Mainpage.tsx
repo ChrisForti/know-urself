@@ -2,6 +2,7 @@ import styles from "./Mainpage.module.css";
 import Myimage from "../assets/alex-block-PdDBTrkGYLo-unsplash (1).jpg";
 import Myimage2 from "../assets/resource-database-TIUyoNGM0no-unsplash (1).jpg";
 import Pyscave from "../assets/makis-hristaras-5oZgQ2VQpz8-unsplash.jpg";
+import Thepath from "../assets/rosie-kerr-vppwHIitOoE-unsplash.jpg";
 
 export function Mainpage() {
   return (
@@ -23,21 +24,22 @@ export function Mainpage() {
       </h4>
       <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
       <img src={Myimage2} width="400px" height="400px" />
+      <h2>
+        Your Expression Number reveals your strengths and weaknesses. Also
+        called your Destiny Number, this number provides insight into your
+        natural abilities that will help propel you to your life goals, as well
+        as the challenges you will need to overcome to reach your full
+        potential. You can calculate your destiny Number using your full name.
+      </h2>
+
+      <img src={Thepath} width="800px" height="800px" />
       <ul>
-        <h2>
-          Your Expression Number reveals your strengths and weaknesses. Also
-          called your Destiny Number, this number provides insight into your
-          natural abilities that will help propel you to your life goals, as
-          well as the challenges you will need to overcome to reach your full
-          potential. You can calculate your destiny Number using your full name.
-        </h2>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
           corresponding number. To calculate your Expression Number, first
           assign the correct number to each letter of your name using the values
           below:
         </li>
-        <br />
         <li>
           A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4, N=5,
           O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8.
