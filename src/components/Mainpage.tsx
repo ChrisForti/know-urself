@@ -7,7 +7,7 @@ import Thepath from "../assets/rosie-kerr-vppwHIitOoE-unsplash.jpg";
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <img src={Myimage} width="800px" height="500px" />
+      <img src={Myimage} width="700px" height="500px" />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
@@ -16,7 +16,7 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Pyscave} width="800px" height="800px" />
+      <img src={Pyscave} width="600px" height="800px" />
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
       <h4>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
@@ -32,7 +32,7 @@ export function Mainpage() {
         potential. You can calculate your destiny Number using your full name.
       </h2>
 
-      <img src={Thepath} width="800px" height="800px" />
+      <img src={Thepath} width="600px" height="600px" />
       <ul>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
