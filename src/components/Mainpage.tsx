@@ -16,7 +16,7 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Pyscave} width="600px" height="800px" />
+      <img src={Pyscave} width="600px" height="auto" />
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
       <h4>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
