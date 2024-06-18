@@ -31,7 +31,6 @@ export function Mainpage() {
         as the challenges you will need to overcome to reach your full
         potential. You can calculate your destiny Number using your full name.
       </h2>
-
       <img src={Thepath} width="600px" height="600px" />
       <ul>
         <li>
@@ -52,6 +51,22 @@ export function Mainpage() {
         <br />
         <b>Until we have a single root number.</b>
       </ul>
+      <h2>Master Numbers in Numerology</h2>
+      <p>
+        Usually, there are numbers from 1 to 9 that numerology utilizes to
+        explore life and predictions for the future. But, some specific number
+        sets are considered special and unique. This set of numbers possesses a
+        universal impact and immense significance to the people who have it.
+        Such numbers are known as the Master numbers.
+      </p>
+      <p>
+        Since the origin of Numerology, numbers 11, 22, and 33 are considered
+        the Master numbers. Numerologists believe that these numbers have a
+        superior presence in the Universe. As per the Chaldean numerology, there
+        occurs a mysterious force surrounding these special Master numbers.
+        These numbers just repeat themselves. However, as per numerology, they
+        are of utter importance.
+      </p>
     </main>
   );
 }
