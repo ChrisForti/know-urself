@@ -7,7 +7,7 @@ import Thepath from "../assets/rosie-kerr-vppwHIitOoE-unsplash.jpg";
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <img src={Myimage} width="700px" height="500px" />
+      <img src={Myimage} height="auto" width="80%" />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth

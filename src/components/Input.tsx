@@ -13,7 +13,7 @@ export function Input({ setChoice }: InputProps) {
     setChoice(getGematriaValue(value));
   }
   return (
-    <form className={styles.input} onSubmit={handleSubmit}>
+    <form className={styles.form} onSubmit={handleSubmit}>
       <div>Enter full name given at birth</div>
       <input
         type="text"

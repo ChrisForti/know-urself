@@ -1,8 +1,8 @@
-import styles from "./Nine.module.css";
+import styles from "./Page.module.css";
 
 export function Nine() {
   return (
-    <div className={styles.nine}>
+    <div className={styles.container}>
       <h1>What Does Destiny Number 9 Mean?</h1>
       <em>Artistic, generous, idealistic, poetic, visionary…</em>
       <p>

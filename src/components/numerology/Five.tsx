@@ -1,8 +1,8 @@
-import styles from "./Five.module.css";
+import styles from "./Page.module.css";
 
 export function Five() {
   return (
-    <div className={styles.five}>
+    <div className={styles.container}>
       <h1>What Does Destiny Number 5 Mean?</h1>
       <em>Carefree, adventurous, witty, progressive, enthusiastic…</em>
       <p>

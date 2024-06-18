@@ -1,8 +1,8 @@
-import styles from "./Six.module.css";
+import styles from "./Page.module.css";
 
 export function Six() {
   return (
-    <div className={styles.six}>
+    <div className={styles.container}>
       <h1>What Does Destiny Number 6 Mean?</h1>
       <em>
         Considerate, affectionate, domestic, responsible, loyal, empathetic,

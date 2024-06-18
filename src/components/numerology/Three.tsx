@@ -1,8 +1,8 @@
-import styles from "./Three.module.css";
+import styles from "./Page.module.css";
 
 export function Three() {
   return (
-    <div className={styles.three}>
+    <div className={styles.container}>
       <h1>
         What Does Destiny Number 3 Mean for <b>leigh ann</b> ?
       </h1>

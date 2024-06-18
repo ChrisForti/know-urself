@@ -9,7 +9,8 @@ import { Six } from "./numerology/Six";
 import { Seven } from "./numerology/Seven";
 import { Eight } from "./numerology/Eight";
 import { Nine } from "./numerology/Nine";
-import { Mastereleven } from "./numerology/Mastereleven";
+import { Eleven } from "./numerology/Eleven";
+import { Twentytwo } from "./numerology/Twentytwo";
 
 type ContentProps = { choice: number };
 
@@ -25,8 +26,8 @@ export function Content({ choice }: ContentProps) {
     7: <Seven />,
     8: <Eight />,
     9: <Nine />,
-    11: <Mastereleven />,
-    22: <Mainpage />,
+    11: <Eleven />,
+    22: <Twentytwo />,
     33: <Mainpage />,
   };
 

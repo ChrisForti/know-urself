@@ -1,8 +1,8 @@
-import styles from "./Eight.module.css";
+import styles from "./Page.module.css";
 
 export function Eight() {
   return (
-    <div className={styles.eight}>
+    <div className={styles.container}>
       <h1>What Does Destiny Number 8 Mean?</h1>
       <em>
         Great motivator, determined, leadership ability, hard-working, powerful,
