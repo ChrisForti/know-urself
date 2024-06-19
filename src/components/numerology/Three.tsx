@@ -24,7 +24,7 @@ export function Three() {
         Luckily people love you. You are a performer and full of creativity as a
         3.
       </p>
-      <em>Picking a Career</em>
+      <h2>Picking a Career</h2>
       <p>
         It goes without saying that 3 Expression Numbers perform best when they
         have an audience to entertain. But this does not necessarily mean they
@@ -35,7 +35,7 @@ export function Three() {
         journalism could be ideal, depending on the rest of the Numerology
         chart.
       </p>
-      <em>3's downside</em>
+      <h2>3's downside</h2>
       <p>
         When not expressing at their highest, the Destiny Number 3 can be fake,
         and people-pleasing. Their need for recognition means that these
@@ -48,7 +48,6 @@ export function Three() {
         life. For this reason, developing discipline early on in life will
         really serve them.
       </p>
-      <em></em>
     </div>
   );
 }

@@ -39,7 +39,7 @@ export function Seven() {
         click here for a free numerology reading. It will unlock your
         personality code and help you discover your divine gifts.
       </p>
-      <h2>Youir Intellect</h2>
+      <h2>Your Intellect</h2>
       <p>
         Sevens are intellectuals. People with the destiny number 7 love to
         educate, learn and look at life from a new perspective. You make a

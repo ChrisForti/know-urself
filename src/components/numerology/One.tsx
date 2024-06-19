@@ -19,7 +19,7 @@ export function One() {
         as a 1, which may make you seem blunt, selfish and a number of other
         negatives.
       </p>
-      <em>The Need for Power</em>
+      <h2>The Need for Power</h2>
       <p>
         As expression number 1, you will not be happy when you are not in power.
         Because of this, destiny number 1 people tend to be entrepreneurs, CEOs,
@@ -46,7 +46,7 @@ export function One() {
         a free numerology reading. It will help you understand your strengths,
         weaknesses, talents and gifts.
       </p>
-      <em>Picking a Career</em>
+      <h2>Picking a Career</h2>
       <p>
         It is already been said that destiny number 1 fits well in a number of
         roles. It may be difficult to pick one path. Do you go for a career
@@ -77,7 +77,7 @@ export function One() {
         reading. It will explain your personality code and unlock your hidden
         potential.
       </p>
-      <em>Staying Independent</em>
+      <h2>Staying Independent</h2>
       <p>
         People in power have the luxury of being independent, which is a natural
         1 trait you have. But once you have established a leadership in work, in

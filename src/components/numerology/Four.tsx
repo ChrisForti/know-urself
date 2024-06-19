@@ -15,7 +15,7 @@ export function Four() {
         fine. Your time is valuable and you only fill it with things that
         benefit you.
       </p>
-      <em>Relationship goals as a 4</em>
+      <h2>Relationship goals as a 4</h2>
       <p>
         Because of this, you may enjoy your own company more than being in a
         relationship. This isn not something you are sad about, because you
@@ -27,7 +27,7 @@ export function Four() {
         4. You need someone who will not sit around and gossip, and wasting
         time.
       </p>
-      <em>Career goals as a 4</em>
+      <h2>Career goals as a 4</h2>
       <p>
         You will be unwaveringly loyal if you decide to partner up. You will
         also be loyal to your co-workers, or staff. You would be an asset to any

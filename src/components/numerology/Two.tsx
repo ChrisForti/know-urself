@@ -27,7 +27,7 @@ export function Two() {
         comes with your overprotective tendencies, number 2. To discover more
         about how this these traits play out in your life.
       </p>
-      <em>Your Calm Nature</em>
+      <h2>Your Calm Nature</h2>
       <p>
         Being calm is a tool many people take for granted. It is something thats
         necessary in a number of aspects of life. Work, relationships, family,
@@ -48,7 +48,7 @@ export function Two() {
         potential for your life, look at the rest of your numerology chart. Your
         other numbers will also influence your talents, skills and strengths.
       </p>
-      <em>Picking a Career</em>
+      <h2>Picking a Career</h2>
       <p>
         As a destiny number 2 who is diplomatic by nature, you would make a
         great diplomat. But your positive attributes also scream suitability for
@@ -69,7 +69,7 @@ export function Two() {
         with themselves. It is a big responsibility, but you have the wisdom for
         it as a 2.
       </p>
-      <em>Being Overbearing</em>
+      <h2>Being Overbearing</h2>
       <p>
         There is room for growth in everyone. Even someone as kind and
         understanding as yourself. The unfortunate truth is your overprotective
