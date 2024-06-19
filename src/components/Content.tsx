@@ -11,6 +11,7 @@ import { Eight } from "./numerology/Eight";
 import { Nine } from "./numerology/Nine";
 import { Eleven } from "./numerology/Eleven";
 import { Twentytwo } from "./numerology/Twentytwo";
+import { Thirtythree } from "./numerology/Thirtythree";
 
 type ContentProps = { choice: number };
 
@@ -28,7 +29,7 @@ export function Content({ choice }: ContentProps) {
     9: <Nine />,
     11: <Eleven />,
     22: <Twentytwo />,
-    33: <Mainpage />,
+    33: <Thirtythree />,
   };
 
   return <main className={styles.main}>{pages[choice]}</main>;

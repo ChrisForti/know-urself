@@ -21,91 +21,91 @@ export function Sidebar({ setChoice }: SidebarProps) {
             setChoice(0);
           }}
         >
-          <a href="#">Home</a>
+          <a href="#">Main page</a>
         </li>
         <li
           onClick={() => {
             setChoice(1);
           }}
         >
-          <a href="#">Numero 1</a>
+          <a href="#">Number 1</a>
         </li>
         <li
           onClick={() => {
             setChoice(2);
           }}
         >
-          <a href="#">Numero 2</a>
+          <a href="#">Number 2</a>
         </li>
         <li
           onClick={() => {
             setChoice(3);
           }}
         >
-          <a href="#">Numero 3</a>
+          <a href="#">Number 3</a>
         </li>
         <li
           onClick={() => {
             setChoice(4);
           }}
         >
-          <a href="#">Numero 4</a>
+          <a href="#">Number 4</a>
         </li>
         <li
           onClick={() => {
             setChoice(5);
           }}
         >
-          <a href="#">Numero 5</a>
+          <a href="#">Number 5</a>
         </li>
         <li
           onClick={() => {
             setChoice(6);
           }}
         >
-          <a href="#">Numero 6</a>
+          <a href="#">Number 6</a>
         </li>
         <li
           onClick={() => {
             setChoice(7);
           }}
         >
-          <a href="#">Numero 7</a>
+          <a href="#">Number 7</a>
         </li>
         <li
           onClick={() => {
             setChoice(8);
           }}
         >
-          <a href="#">Numero 8</a>
+          <a href="#">Number 8</a>
         </li>
         <li
           onClick={() => {
             setChoice(9);
           }}
         >
-          <a href="#">Numero 9</a>
+          <a href="#">Number 9</a>
         </li>
         <li
           onClick={() => {
             setChoice(11);
           }}
         >
-          <a href="#">Master numero 11</a>
+          <a href="#">Master number 11</a>
         </li>
         <li
           onClick={() => {
             setChoice(22);
           }}
         >
-          <a href="#">Master numero 22</a>
+          <a href="#">Master number 22</a>
         </li>
         <li
           onClick={() => {
             setChoice(33);
           }}
         >
-          <a href="#">Master numero 33</a>
+          <a href="#">Master number 33</a>
         </li>
       </ul>
       <button
