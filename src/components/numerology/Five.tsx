@@ -4,7 +4,7 @@ export function Five() {
   return (
     <div className={styles.container}>
       <h1>What Does Destiny Number 5 Mean?</h1>
-      <em>Carefree, adventurous, witty, progressive, enthusiastic…</em>
+      <h2>Carefree, adventurous, witty, progressive, enthusiastic…</h2>
       <p>
         Destiny number 5 is all about communication. You are an incredible
         communicator, talking with old people and new people in different ways.
@@ -15,7 +15,7 @@ export function Five() {
         You need to travel, explore new places and new cultures. You have no
         time for people holding you back. You adore change and newness, number
         5. You thrive on it.
-        <em>Number 5 downsides</em>
+        <h2>Number 5 downsides</h2>
         <p>
           You get bored too quickly and this keeps you occupied. Your attention
           span is too low to stay in one place. This sounds like a downer, but
@@ -43,7 +43,7 @@ export function Five() {
         want a change of environment. New conditions. New times and
         eccentricity. As a 5,
       </p>
-      <em>Changeable, Adventurous Worker</em>
+      <h2>Changeable, Adventurous Worker</h2>
       <p>
         But how does one survive in this wealth-driven, job-driven world, off of
         just travelling? There’s a certain romance about never staying in one
@@ -62,7 +62,7 @@ export function Five() {
         wit will help you succeed. The pursuit of a career in politics is enough
         adventure for a lifetime.
       </p>
-      <em>Addiction</em>
+      <h2>Addiction</h2>
       <p>
         The destiny number 5 brings stress with it, though. Your constant need
         to go in a new direction can have an impact on you that’s not always a

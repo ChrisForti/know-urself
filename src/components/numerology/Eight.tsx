@@ -42,12 +42,10 @@ export function Eight() {
         hard work. People with destiny number 8 excel beyond any other destiny
         number. Your pursuit of power drives you past the boundaries. Your
         mission is to get through obstacles that stand in your way to the top,
-        and stay there.
+        and stay there. That is why, in most cases, you will not be suited to a
+        career that does not put you in a leadership position.
       </p>
-      <em>
-        That is why, in most cases, you will not be suited to a career that does
-        not put you in a leadership position.
-      </em>
+
       <p>
         Your intolerance is clear. Even if you can not get a job with true
         power, eights make excellent managers. As a destiny number eight, you
@@ -78,6 +76,7 @@ export function Eight() {
         freedom that respected leaders have to be themselves. It is one of the
         benefits of being on top.
       </p>
+      <h2>Darker traits</h2>
       <em>
         Its most likely your darker traits that push you to be independent.
       </em>
@@ -97,7 +96,7 @@ export function Eight() {
         brings money. Being successful in relationships brings another kind of
         wealth to your soul, number 8.
       </p>
-      <h2>Distrust</h2>
+      <em>Distrust</em>
       <p>
         Sadly number 8, it’s not just work that can take a hit because of your
         distrust. You’re just a suspicious and skeptical person overall. You
