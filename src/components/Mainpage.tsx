@@ -31,7 +31,7 @@ export function Mainpage() {
         as the challenges you will need to overcome to reach your full
         potential. You can calculate your destiny Number using your full name.
       </h2>
-      <img src={Thepath} width="600px" height="600px" />
+      <img src={Thepath} width="auto" height="600px" />
       <ul>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
