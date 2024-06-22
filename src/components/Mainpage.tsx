@@ -16,14 +16,14 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Pyscave} width="600px" height="auto" />
+      <img src={Pyscave} width="auto" height="600px" />
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
       <h4>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
         Tsu~~
       </h4>
       <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
-      <img src={Myimage2} width="400px" height="400px" />
+      <img src={Myimage2} width="auto" height="400px" />
       <h2>
         Your Expression Number reveals your strengths and weaknesses. Also
         called your Destiny Number, this number provides insight into your
