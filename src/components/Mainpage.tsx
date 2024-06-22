@@ -1,8 +1,8 @@
 import styles from "./Mainpage.module.css";
-import Myimage from "../assets/alex-block-PdDBTrkGYLo-unsplash (1).jpg";
-import Myimage2 from "../assets/resource-database-TIUyoNGM0no-unsplash (1).jpg";
-import Pyscave from "../assets/makis-hristaras-5oZgQ2VQpz8-unsplash.jpg";
-import Thepath from "../assets/rosie-kerr-vppwHIitOoE-unsplash.jpg";
+import Myimage from "../assets/Library.jpg";
+import Myimage2 from "../assets/Pithagoras-cave.jpg";
+import Pyscave from "../assets/Quantum-ints.jpg";
+import Thepath from "../assets/Road-2-freedom.jpg";
 
 export function Mainpage() {
   return (
