@@ -1,5 +1,5 @@
 import styles from "./Mainpage.module.css";
-import Library from "../../assets/Library.jpg";
+import Aurora from "../../assets/Aurora.jpg";
 import Piscave from "../../assets/Pithagoras-cave.jpg";
 import Quantum from "../../assets/Quantum-ints.jpg";
 import Thepath from "../../assets/Road-2-freedom.jpg";
@@ -8,20 +8,24 @@ import Cvlogo from "../../assets/grayscale-transparent.png";
 export function Mainpage() {
   return (
     <div className={styles.main}>
-      <img src={Library} />
-      <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
-      <h4>
+      <h1 className={styles.h1}>
+        In my experience I wandered aimlessly until I truly knew myself.
+      </h1>
+      <h4 className={styles.h4}>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
         Tsu~~
       </h4>
-      <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
-      <h4>
+      <h4 className={styles.h4}>
+        "Knowing yourself is the beginning of all wisdom."~~Socrates~~
+      </h4>
+      <h4 className={styles.h4}>
         Colossians 2:2-3 <br />
         2. My goal is that they may be encouraged in heart and united in love,
         so that they may have the full riches of complete understanding, in
         order that they may know the mystery of God, namely, Christ, 3. in whom
         are hidden all the treasures of wisdom and knowledge.
       </h4>
+      <img src={Aurora} />
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
@@ -29,10 +33,8 @@ export function Mainpage() {
         corresponding integer. Then add them together, and reducing each double
         integer to a single integer.
       </p>
-      <b> Which will leave us with your root number.</b>
+      <b> Which will leave us with your Expression number.</b>
       <br />
-      <img src={Quantum} />
-
       <p>
         Your Expression Number reveals your strengths and weaknesses. Also
         called your <b>Destiny Number</b>, this number provides insight into
@@ -41,8 +43,8 @@ export function Mainpage() {
         potential. You can calculate your destiny Number using your full name
         given at birth.
       </p>
-      <img src={Piscave} />
-
+      <img src={Quantum} />
+      {/* <img src={Piscave} /> */}
       <ul>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
@@ -66,7 +68,6 @@ export function Mainpage() {
           33.
         </b>
       </ul>
-      <img src={Thepath} />
       <h2>Master Numbers in Numerology</h2>
       <p>
         Usually, there are numbers from 1 to 9 that numerology utilizes to
@@ -83,6 +84,7 @@ export function Mainpage() {
         These numbers just repeat themselves. However, as per numerology, they
         are of utter importance.
       </p>
+      <img src={Thepath} />
       <img src={Cvlogo} />
     </div>
   );

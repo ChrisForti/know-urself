@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Header setChoice={setChoice} />
+      <Header />
       <div className={styles.mainContainer}>
         <Sidebar setChoice={setChoice} />
         <Content choice={choice} />

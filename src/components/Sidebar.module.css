@@ -1,4 +1,5 @@
 .sidebar {
+  font-family: fantasy;
   background: #f5f6f7;
   display: flex;
   flex-direction: column;
@@ -10,7 +11,7 @@
   text-align: center;
 }
 
-.icon {
+.hr {
   color: #f56a6a;
 }
 
@@ -30,6 +31,7 @@
 }
 
 .linkContainer li > a {
+  font-family: fantasy;
   color: #3d4449;
   text-decoration: none;
   transition: color 0.4s ease-in-out;

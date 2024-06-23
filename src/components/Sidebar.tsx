@@ -116,6 +116,7 @@ export function Sidebar({ setChoice }: SidebarProps) {
         }}
       >
         <FontAwesomeIcon icon={faBars} />
+        <hr />
       </button>
       <h3>Enter your full name given at birth</h3>
       <Input setChoice={setChoice} />
