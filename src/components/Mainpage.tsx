@@ -7,7 +7,7 @@ import Thepath from "../assets/Road-2-freedom.jpg";
 export function Mainpage() {
   return (
     <main className={styles.main}>
-      <img src={Library} width="auto" height="600px" />
+      {/* <img src={Library} width="cover" height="cover" /> */}
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
@@ -16,14 +16,14 @@ export function Mainpage() {
         integer to a single integer.
       </p>
       <b> Which will leave us with your root number.</b>
-      <img src={Quantum} width="auto" height="600px" />
+      <img src={Quantum} width="300px" height="400px" />
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
       <h4>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
         Tsu~~
       </h4>
       <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
-      <img src={Piscave} width="auto" height="400px" />
+      {/* <img src={Piscave} width="auto" height="400px" /> */}
       <h2>
         Your Expression Number reveals your strengths and weaknesses. Also
         called your Destiny Number, this number provides insight into your
@@ -31,7 +31,8 @@ export function Mainpage() {
         as the challenges you will need to overcome to reach your full
         potential. You can calculate your destiny Number using your full name.
       </h2>
-      <img src={Thepath} width="auto" height="600px" />
+      {/* <img src={Thepath} width="auto" height="600px" /> */}
+
       <ul>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
