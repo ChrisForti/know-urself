@@ -14,6 +14,13 @@ export function Mainpage() {
         Tsu~~
       </h4>
       <h4>"Knowing yourself is the beginning of all wisdom."~~Socrates~~</h4>
+      <h4>
+        Colossians 2:2-3 <br />
+        2. My goal is that they may be encouraged in heart and united in love,
+        so that they may have the full riches of complete understanding, in
+        order that they may know the mystery of God, namely, Christ, 3. in whom
+        are hidden all the treasures of wisdom and knowledge.
+      </h4>
       <p>
         Pythagorean Numerology is a system of interpreting the meaning of
         certain core numbers in your life, which are calculated from your birth
@@ -25,13 +32,14 @@ export function Mainpage() {
       <br />
       <img src={Quantum} width="300px" height="400px" />
 
-      <h2>
+      <p>
         Your Expression Number reveals your strengths and weaknesses. Also
-        called your Destiny Number, this number provides insight into your
-        natural abilities that will help propel you to your life goals, as well
-        as the challenges you will need to overcome to reach your full
-        potential. You can calculate your destiny Number using your full name.
-      </h2>
+        called your <b>Destiny Number</b>, this number provides insight into
+        your natural abilities that will help propel you to your life goals, as
+        well as the challenges you will need to overcome to reach your full
+        potential. You can calculate your destiny Number using your full name
+        given at birth.
+      </p>
       <img src={Piscave} width="300px" height="300px" />
 
       <ul>
@@ -41,6 +49,7 @@ export function Mainpage() {
           assign the correct number to each letter of your name using the values
           below:
         </li>
+        <br />
         <li>
           A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4, N=5,
           O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8.
