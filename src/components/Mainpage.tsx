@@ -1,8 +1,9 @@
 import styles from "./Mainpage.module.css";
-import Library from "../assets/Library.jpg";
+// import Library from "../assets/Library.jpg";
 import Piscave from "../assets/Pithagoras-cave.jpg";
 import Quantum from "../assets/Quantum-ints.jpg";
 import Thepath from "../assets/Road-2-freedom.jpg";
+import Cvlogo from "../assets/grayscale-transparent.png";
 
 export function Mainpage() {
   return (
@@ -82,6 +83,7 @@ export function Mainpage() {
         These numbers just repeat themselves. However, as per numerology, they
         are of utter importance.
       </p>
+      <img src={Cvlogo} width="300px" height="300px" />
     </main>
   );
 }
