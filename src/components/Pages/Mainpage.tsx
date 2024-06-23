@@ -1,6 +1,5 @@
 import styles from "./Mainpage.module.css";
 import Aurora from "../../assets/Aurora.jpg";
-import Piscave from "../../assets/Pithagoras-cave.jpg";
 import Quantum from "../../assets/Quantum-ints.jpg";
 import Thepath from "../../assets/Road-2-freedom.jpg";
 import Cvlogo from "../../assets/grayscale-transparent.png";
@@ -44,7 +43,6 @@ export function Mainpage() {
         given at birth.
       </p>
       <img src={Quantum} />
-      {/* <img src={Piscave} /> */}
       <ul>
         <li>
           In Pythagorean Numerology, each letter of the alphabet has a
