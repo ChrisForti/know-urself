@@ -2,6 +2,7 @@ import { useState } from "react";
 import styles from "./Sidebar.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
+import { Input } from "./Input";
 
 type SidebarProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -13,8 +14,8 @@ export function Sidebar({ setChoice }: SidebarProps) {
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
       <h2 className={styles.h2}>
-        Root numbers 1 thru 9 <br /> Master numbers 11, 22, 33
-      </h2>
+        Navigation of 1 thru 9 <br />& <br /> Master numbers 11, 22, 33
+      </h2>{" "}
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
@@ -116,6 +117,8 @@ export function Sidebar({ setChoice }: SidebarProps) {
       >
         <FontAwesomeIcon icon={faBars} />
       </button>
+      <h3>Enter your full name given at birth</h3>
+      <Input setChoice={setChoice} />
     </aside>
   );
 }

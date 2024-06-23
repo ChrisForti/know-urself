@@ -1,5 +1,4 @@
 import styles from "./Header.module.css";
-import { Input } from "./Input.tsx";
 
 type HeaderProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -9,7 +8,6 @@ export function Header({ setChoice }: HeaderProps) {
   return (
     <header className={styles.header}>
       <h3 className={styles.h3}>Character Compass</h3>
-      <Input setChoice={setChoice} />
     </header>
   );
 }
