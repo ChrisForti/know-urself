@@ -1,17 +1,17 @@
 import styles from "./Content.module.css";
-import { Mainpage } from "./Mainpage";
-import { One } from "./numerology/One";
-import { Two } from "./numerology/Two";
-import { Three } from "./numerology/Three";
-import { Four } from "./numerology/Four";
-import { Five } from "./numerology/Five";
-import { Six } from "./numerology/Six";
-import { Seven } from "./numerology/Seven";
-import { Eight } from "./numerology/Eight";
-import { Nine } from "./numerology/Nine";
-import { Eleven } from "./numerology/Eleven";
-import { Twentytwo } from "./numerology/Twentytwo";
-import { Thirtythree } from "./numerology/Thirtythree";
+import { Mainpage } from "./Pages/Mainpage";
+import { One } from "./Pages/One";
+import { Two } from "./Pages/Two";
+import { Three } from "./Pages/Three";
+import { Four } from "./Pages/Four";
+import { Five } from "./Pages/Five";
+import { Six } from "./Pages/Six";
+import { Seven } from "./Pages/Seven";
+import { Eight } from "./Pages/Eight";
+import { Nine } from "./Pages/Nine";
+import { Eleven } from "./Pages/Eleven";
+import { Twentytwo } from "./Pages/Twentytwo";
+import { Thirtythree } from "./Pages/Thirtythree";
 
 type ContentProps = { choice: number };
 

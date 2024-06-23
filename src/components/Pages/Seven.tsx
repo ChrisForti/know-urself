@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Seven() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>What Does Destiny Number 7 Mean?</h1>
       <em>
         Emotionally expressive, logical, courageous, honest, original thinker,

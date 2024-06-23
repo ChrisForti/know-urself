@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Thirtythree() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>Master Number 33: The Master Preachers</h1>
       <p>
         People who have Master number 33 possess a helping nature. These people

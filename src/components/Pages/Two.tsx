@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Two() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>What Does Destiny Number 2 Mean?</h1>
       <em>Diplomatic, cooperative, tactful, persuasive, good listener…</em>
       <p>

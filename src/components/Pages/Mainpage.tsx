@@ -1,14 +1,14 @@
 import styles from "./Mainpage.module.css";
-// import Library from "../assets/Library.jpg";
-import Piscave from "../assets/Pithagoras-cave.jpg";
-import Quantum from "../assets/Quantum-ints.jpg";
-import Thepath from "../assets/Road-2-freedom.jpg";
-import Cvlogo from "../assets/grayscale-transparent.png";
+import Library from "../../assets/Library.jpg";
+import Piscave from "../../assets/Pithagoras-cave.jpg";
+import Quantum from "../../assets/Quantum-ints.jpg";
+import Thepath from "../../assets/Road-2-freedom.jpg";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Mainpage() {
   return (
-    <main className={styles.main}>
-      {/* <img src={Library} width="200px" height="300px" /> */}
+    <div className={styles.main}>
+      <img src={Library} />
       <h1>In my experience I wandered aimlessly until I truly knew myself.</h1>
       <h4>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
@@ -31,7 +31,7 @@ export function Mainpage() {
       </p>
       <b> Which will leave us with your root number.</b>
       <br />
-      <img src={Quantum} width="300px" height="400px" />
+      <img src={Quantum} />
 
       <p>
         Your Expression Number reveals your strengths and weaknesses. Also
@@ -41,7 +41,7 @@ export function Mainpage() {
         potential. You can calculate your destiny Number using your full name
         given at birth.
       </p>
-      <img src={Piscave} width="300px" height="300px" />
+      <img src={Piscave} />
 
       <ul>
         <li>
@@ -65,8 +65,8 @@ export function Mainpage() {
           Until we have a single root number, or the last two digits are 11, 22,
           33.
         </b>
-        <img src={Thepath} width="350px" height="400px" />
       </ul>
+      <img src={Thepath} />
       <h2>Master Numbers in Numerology</h2>
       <p>
         Usually, there are numbers from 1 to 9 that numerology utilizes to
@@ -83,7 +83,7 @@ export function Mainpage() {
         These numbers just repeat themselves. However, as per numerology, they
         are of utter importance.
       </p>
-      <img src={Cvlogo} width="300px" height="300px" />
-    </main>
+      <img src={Cvlogo} />
+    </div>
   );
 }

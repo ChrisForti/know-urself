@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Four() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>Destiny Number 4 Meaning</h1>
       <p>
         Destiny number 4 people have fantastic traits. Unfortunately, destiny

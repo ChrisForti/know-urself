@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Twentytwo() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>Master Number 22: The Master Builders</h1>
       <p>
         Natives with Master number 22 are leaders and visionary builders. These

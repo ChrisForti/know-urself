@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Three() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>What Does Destiny Number 3 Mean for?</h1>
       <p>
         Being a number 3, makes you a true artist and entertainer. Expressing

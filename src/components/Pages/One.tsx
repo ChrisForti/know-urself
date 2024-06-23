@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function One() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>What Does Destiny Number 1 Mean?</h1>
       <em>Creativity, discipline, independence, leadership…</em>
       <p>

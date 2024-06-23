@@ -1,8 +1,8 @@
-import styles from "./Page.module.css";
+import styles from "./Mainpage.module.css";
 
 export function Eleven() {
   return (
-    <div className={styles.container}>
+    <div className={styles.main}>
       <h1>Master number 11: The Intuitive Souls</h1>
       <p>
         Individuals born with Master number 11 are spiritually insightful. These
