@@ -14,7 +14,7 @@ export function Input({ setChoice }: InputProps) {
   }
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
-      <div>Name converter box</div>
+      <div>Name to number converter box</div>
       <input
         type="text"
         value={value}

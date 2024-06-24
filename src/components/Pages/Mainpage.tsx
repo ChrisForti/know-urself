@@ -26,11 +26,13 @@ export function Mainpage() {
       </h4>
       <img src={Aurora} />
       <p>
-        Pythagorean Numerology is a system of interpreting the meaning of
-        certain core numbers in your life, which are calculated from your birth
-        date or name. This app will convert each letter of your name, to its
-        corresponding integer. Then add them together, and reducing each double
-        integer to a single integer.
+        Pythagorean name Numerology is a system of interpreting all the numbers
+        of your life, via the letters of your name. Then with simple math we can
+        extrapolating the meaning of the root numbers that are your life. This
+        app will convert each letter of your name, to its corresponding integer.
+        Then add them together, and reducing each double integer to a single
+        integer. Unless of course, the algorythm finds special circumstances,
+        for now we will call those master numbers.
       </p>
       <b> Which will leave us with your Expression number.</b>
       <br />
