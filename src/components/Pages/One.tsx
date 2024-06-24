@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function One() {
   return (
@@ -98,6 +99,7 @@ export function One() {
         dates, giving them the power. Really, you need to find a balance in
         staying independent and knowing what scenarios you can give it up in.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

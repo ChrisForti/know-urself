@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Two() {
   return (
@@ -91,6 +92,7 @@ export function Two() {
         numerology than personality profiles. You can also use it to forecast
         the energies in the weeks, months and years ahead.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

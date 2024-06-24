@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Three() {
   return (
@@ -37,7 +38,8 @@ export function Three() {
         fully developing a single one, means they may fail to really succeed in
         life. For this reason, developing discipline early on in life will
         really serve them.
-      </p>
+      </p>{" "}
+      <img src={Cvlogo} />
     </div>
   );
 }
