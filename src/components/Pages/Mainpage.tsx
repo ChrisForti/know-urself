@@ -30,9 +30,9 @@ export function Mainpage() {
         of your life, via the letters of your name. Then with simple math we can
         extrapolating the meaning of the root numbers that are your life. This
         app will convert each letter of your name, to its corresponding integer.
-        Then add them together, and reducing each double integer to a single
-        integer. Unless of course, the algorythm finds special circumstances,
-        for now we will call those master numbers.
+        Then by reduction, adding each double integer to a single integer{" "}
+        <b>( example: number is 12, 1+2=3)</b>. Unless of course, the algorythm
+        finds special circumstances, for now we will call those master numbers.
       </p>
       <b> Which will leave us with your Expression number.</b>
       <br />
