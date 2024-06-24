@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Eight() {
   return (
@@ -114,6 +115,7 @@ export function Eight() {
         master of your purpose. Don’t let your distrust of people take away your
         successes, destiny number 8.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

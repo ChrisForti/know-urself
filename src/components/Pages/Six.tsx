@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Six() {
   return (
@@ -100,6 +101,7 @@ export function Six() {
         nurturing or perfectionist traits take over your romantic one. Sometimes
         things don’t need to be nurtured, and life isn’t perfect.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

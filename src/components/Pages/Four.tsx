@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Four() {
   return (
@@ -37,6 +38,7 @@ export function Four() {
         Others may see your life as dull and unfulfilled number 4, but you know
         better. You know what you value.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

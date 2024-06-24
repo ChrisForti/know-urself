@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Five() {
   return (
@@ -89,6 +90,7 @@ export function Five() {
         and your addictive personality will quieten. Instead, you’ll become
         addicted to the people in your life, not the thrills that can hurt you.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

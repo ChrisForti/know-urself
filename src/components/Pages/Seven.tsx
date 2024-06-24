@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Seven() {
   return (
@@ -92,6 +93,7 @@ export function Seven() {
         it gifted you with abilities for a reason. Maybe using them to help
         others is your fate, destiny number 7.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

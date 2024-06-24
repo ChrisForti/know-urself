@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Nine() {
   return (
@@ -109,6 +110,7 @@ export function Nine() {
           lesser, number 9.
         </p>
       </span>
+      <img src={Cvlogo} />
     </div>
   );
 }
