@@ -13,7 +13,7 @@ export function Sidebar({ setChoice }: SidebarProps) {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <Input setChoice={setChoice} />
+      <Input setChoice={setChoice} /> <hr />
       <h4 className={styles.h4}>Navigation through all the destiny numbers</h4>
       <ul className={styles.linkContainer}>
         <li

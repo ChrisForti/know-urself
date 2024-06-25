@@ -49,6 +49,12 @@
   width: 2rem;
 }
 
+.hr {
+  border-bottom: solid 5px #f56a6a;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
 @media (max-width: 768px) {
   .sidebar {
     margin-left: -320px;
