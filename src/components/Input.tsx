@@ -23,7 +23,7 @@ export function Input({ setChoice }: InputProps) {
         }}
       />
       <button type="submit">Submit</button>
-      <p>Ckick the 3 red lines to reveal you destiny</p>
+      <hr className={styles.hr} />
     </form>
   );
 }
