@@ -13,9 +13,8 @@ export function Sidebar({ setChoice }: SidebarProps) {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <h2 className={styles.h2}>
-        Navigation of 1 thru 9 <br />& <br /> Master numbers 11, 22, 33
-      </h2>{" "}
+      <Input setChoice={setChoice} />
+      <h4 className={styles.h4}>Navigation through all the destiny numbers</h4>
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
@@ -115,11 +114,8 @@ export function Sidebar({ setChoice }: SidebarProps) {
           setSidebarOpen(!sidebarOpen);
         }}
       >
-        <FontAwesomeIcon icon={faBars} />
-        <hr className={styles.hr} />
+        <FontAwesomeIcon icon={faBars} className={styles.icon} />
       </button>
-      <h3>Enter your full name given at birth</h3>
-      <Input setChoice={setChoice} />
     </aside>
   );
 }

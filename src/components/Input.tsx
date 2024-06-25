@@ -14,7 +14,7 @@ export function Input({ setChoice }: InputProps) {
   }
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
-      <div>Name to number converter box</div>
+      <div>Destiny number generator</div>
       <input
         type="text"
         value={value}
@@ -23,6 +23,7 @@ export function Input({ setChoice }: InputProps) {
         }}
       />
       <button type="submit">Submit</button>
+      <p>Ckick the 3 red lines to reveal you destiny</p>
     </form>
   );
 }
