@@ -5,6 +5,7 @@ export function Four() {
   return (
     <div className={styles.main}>
       <h1>Destiny Number 4 Meaning</h1>
+      <em>Practical, Work minded, High standards, Loyal.</em>
       <p>
         Destiny number 4 people have fantastic traits. Unfortunately, destiny
         number 4 people have some strong negatives, too. Your dark side comes at

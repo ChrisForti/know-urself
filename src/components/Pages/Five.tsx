@@ -5,7 +5,7 @@ export function Five() {
   return (
     <div className={styles.main}>
       <h1>What Does Destiny Number 5 Mean?</h1>
-      <h2>Carefree, adventurous, witty, progressive, enthusiastic…</h2>
+      <em>Carefree, adventurous, witty, progressive, enthusiastic…</em>
       <p>
         Destiny number 5 is all about communication. You are an incredible
         communicator, talking with old people and new people in different ways.
