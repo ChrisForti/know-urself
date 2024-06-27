@@ -16,10 +16,6 @@
   margin-left: 3rem;
 }
 
-.logo {
-  text-align: right;
-}
-
 @media (max-width: 768px) {
   .h3 {
     margin-left: auto;
