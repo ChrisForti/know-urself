@@ -3,7 +3,6 @@ import styles from "./Sidebar.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { Input } from "./Input";
-import Logobutton from "../assets/original-logo-symbol.png";
 
 type SidebarProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -117,11 +116,6 @@ export function Sidebar({ setChoice }: SidebarProps) {
       >
         <FontAwesomeIcon icon={faBars} className={styles.icon} />
       </button>
-      <hr />
-      <p>About the developer</p>
-      <a href="https://codevessel.org">
-        <img src={Logobutton} className={styles.logobutton} />
-      </a>
     </aside>
   );
 }
