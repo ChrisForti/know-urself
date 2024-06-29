@@ -54,10 +54,68 @@ export function Mainpage() {
         </li>
         <br />
         <li>
-          <table>
+          <table className={styles.table}>
             <caption>letter to number layout</caption>
-            A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4,
-            N=5, O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8.
+            <thead>
+              <tr>
+                <th scope="col">number</th>
+                <th scope="col">letters</th>
+              </tr>
+              <tr>
+                <th scope="row">1</th>
+                <td>A</td>
+                <td>J</td>
+                <td>S</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>B</td>
+                <td>K</td>
+                <td>T</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>D</td>
+                <td>M</td>
+                <td>V</td>
+              </tr>
+              <tr>
+                <th scope="row">4</th>
+                <td>E</td>
+                <td>M</td>
+                <td>W</td>
+              </tr>
+              <tr>
+                <th scope="row">5</th>
+                <td>E</td>
+                <td>N</td>
+                <td>W</td>
+              </tr>
+              <tr>
+                <th scope="row">6</th>
+                <td>F</td>
+                <td>O</td>
+                <td>X</td>
+              </tr>
+              <tr>
+                <th scope="row">7</th>
+                <td>G</td>
+                <td>P</td>
+                <td>Y</td>
+              </tr>
+              <tr>
+                <th scope="row">8</th>
+                <td>H</td>
+                <td>Q</td>
+                <td>Z</td>
+              </tr>
+              <tr>
+                <th scope="row">9</th>
+                <td>R</td>
+              </tr>
+            </thead>
+            {/* A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4,
+            N=5, O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8. */}
           </table>
         </li>
         <br />
