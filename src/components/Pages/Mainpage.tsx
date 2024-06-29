@@ -55,7 +55,9 @@ export function Mainpage() {
         <br />
         <li>
           <table className={styles.table}>
-            <caption>letter to number layout</caption>
+            <caption className={styles.caption}>
+              letter to number layout
+            </caption>
             <thead>
               <tr>
                 <th scope="col">number</th>
@@ -63,56 +65,39 @@ export function Mainpage() {
               </tr>
               <tr>
                 <th scope="row">1</th>
-                <td>A</td>
-                <td>J</td>
-                <td>S</td>
+                <td>A J S</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
-                <td>B</td>
-                <td>K</td>
-                <td>T</td>
+                <td>B K T</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td>C</td>
-                <td>L</td>
-                <td>U</td>
+                <td>C L U</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td>D</td>
-                <td>M</td>
-                <td>V</td>
+                <td>D M V</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
-                <td>E</td>
-                <td>N</td>
-                <td>W</td>
+                <td>E N W</td>
               </tr>
               <tr>
                 <th scope="row">6</th>
-                <td>F</td>
-                <td>O</td>
-                <td>X</td>
+                <td>F O X</td>
               </tr>
               <tr>
                 <th scope="row">7</th>
-                <td>G</td>
-                <td>P</td>
-                <td>Y</td>
+                <td>G P Y</td>
               </tr>
               <tr>
                 <th scope="row">8</th>
-                <td>H</td>
-                <td>Q</td>
-                <td>Z</td>
+                <td>H Q Z</td>
               </tr>
               <tr>
                 <th scope="row">9</th>
-                <td>I</td>
-                <td>R</td>
+                <td>I R</td>
               </tr>
             </thead>
             {/* A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4,

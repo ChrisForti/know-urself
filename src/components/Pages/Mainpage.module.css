@@ -13,12 +13,16 @@
 
 .table {
   text-align: left;
-  border-collapse: collapse;
+  /* border-collapse: collapse; */
   display: flow-root;
   border: 3px solid #f56a6a;
   font-family: sans-serif;
-  font-size: 0.8rem;
+  font-size: 1em;
   letter-spacing: 1px;
+}
+
+.caption {
+  font: 1em sans-serif;
 }
 
 .main > img {
