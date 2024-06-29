@@ -53,62 +53,58 @@ export function Mainpage() {
           below:
         </li>
         <br />
-        <li>
-          <table className={styles.table}>
-            <caption className={styles.caption}>
-              letter to number layout
-            </caption>
-            <thead>
-              <tr>
-                <th scope="col">number</th>
-                <th scope="col">letters</th>
-              </tr>
-              <tr>
-                <th scope="row">1</th>
-                <td>A J S</td>
-              </tr>
-              <tr>
-                <th scope="row">2</th>
-                <td>B K T</td>
-              </tr>
-              <tr>
-                <th scope="row">3</th>
-                <td>C L U</td>
-              </tr>
-              <tr>
-                <th scope="row">4</th>
-                <td>D M V</td>
-              </tr>
-              <tr>
-                <th scope="row">5</th>
-                <td>E N W</td>
-              </tr>
-              <tr>
-                <th scope="row">6</th>
-                <td>F O X</td>
-              </tr>
-              <tr>
-                <th scope="row">7</th>
-                <td>G P Y</td>
-              </tr>
-              <tr>
-                <th scope="row">8</th>
-                <td>H Q Z</td>
-              </tr>
-              <tr>
-                <th scope="row">9</th>
-                <td>I R</td>
-              </tr>
-            </thead>
-            {/* A=1, B=2, C=3, D=4, E=5, F=6, G=7, H=8, I=9, J=1, K=2, L=3, M=4,
-            N=5, O=6, P=7, Q=8, R=9, S=1, T=2, U=3, V=4, W=5, X=6, Y=7, Z=8. */}
-          </table>
-        </li>
-        <br />
-        <li>
+        <p className={styles.caption}>
+          Letter to number conversion for the english alphabet
+        </p>
+        <table>
+          <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+          </tr>
+          <tr>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+            <td>G</td>
+            <td>H</td>
+            <td>I</td>
+          </tr>
+          <tr>
+            <td>J</td>
+            <td>K</td>
+            <td>L</td>
+            <td>M</td>
+            <td>N</td>
+            <td>O</td>
+            <td>P</td>
+            <td>Q</td>
+            <td>R</td>
+          </tr>
+          <tr>
+            <td>S</td>
+            <td>T</td>
+            <td>U</td>
+            <td>V</td>
+            <td>W</td>
+            <td>X</td>
+            <td>Y</td>
+            <td>Z</td>
+          </tr>
+        </table>
+        <tfoot>
           this app will do this letter to number conversion, then add up each of
           these numbers, reducing each pair into a single number.
-        </li>
+        </tfoot>
         <br />
         <b>
           Until we have a single root number, or the last two digits are 11, 22,
