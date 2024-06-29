@@ -11,6 +11,11 @@
   text-align: center;
 }
 
+.caption {
+  text-align: center;
+  font: 1.2em fantasy;
+}
+
 table {
   text-align: center;
   margin: 0 auto;
@@ -35,11 +40,7 @@ td {
 
 tfoot {
   text-align: center;
-}
-
-.caption {
-  text-align: center;
-  font: 1.2em fantasy;
+  font-family: fantasy;
 }
 
 .main > img {
