@@ -75,15 +75,15 @@ export function Mainpage() {
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td>D</td>
-                <td>M</td>
-                <td>V</td>
+                <td>C</td>
+                <td>L</td>
+                <td>U</td>
               </tr>
               <tr>
                 <th scope="row">4</th>
-                <td>E</td>
+                <td>D</td>
                 <td>M</td>
-                <td>W</td>
+                <td>V</td>
               </tr>
               <tr>
                 <th scope="row">5</th>
@@ -111,6 +111,7 @@ export function Mainpage() {
               </tr>
               <tr>
                 <th scope="row">9</th>
+                <td>I</td>
                 <td>R</td>
               </tr>
             </thead>
