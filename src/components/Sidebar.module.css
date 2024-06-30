@@ -54,6 +54,11 @@
   flex-wrap: wrap;
   padding: 0;
 }
+.logobutton {
+  width: 40px;
+  height: auto;
+  background-color: #9fa3a6;
+}
 
 @media (max-width: 768px) {
   .sidebar {

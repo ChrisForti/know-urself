@@ -66,21 +66,18 @@ export function Mainpage() {
           <em> Theoretic Arithmetic</em>
         </a>
       </p>
-      <ul>
-        <li>
-          In Pythagorean Numerology, each letter of the alphabet has a
-          corresponding number. To calculate your Expression Number, first
-          assign the correct number to each letter of your name using the values
-          below:
-        </li>
-        <br />
-        <Table />
-        <br />
-        <b>
-          Until we have a single root number, or the last two digits are 11, 22,
-          33.
-        </b>
-      </ul>
+      <p>
+        In Pythagorean Numerology, each letter of the alphabet has a
+        corresponding number. To calculate your Expression Number, first assign
+        the correct number to each letter of your name using the values below:
+      </p>
+      <br />
+      <Table />
+      <br />
+      <b>
+        Until we have a single root number, or the last two digits are 11, 22,
+        33.
+      </b>
       <h2>Master Numbers in Numerology</h2>
       <p>
         Usually, there are numbers from 1 to 9 that numerology utilizes to
