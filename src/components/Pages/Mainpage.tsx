@@ -51,17 +51,20 @@ export function Mainpage() {
         sciences. This is proved by the fact that geometry, music, and astronomy
         are dependent upon it but it is not dependent upon them. Thus, geometry
         may be removed but arithmetic will remain; but if arithmetic be removed,
-        geometry is eliminated. In the same manner music depends upon
+        geometry is eliminated. <br /> In the same manner music depends upon
         arithmetic, but the elimination of music affects arithmetic only by
-        limiting one of its expressions. The Pythagoreans also demonstrated
-        arithmetic to be prior to astronomy, for the latter is dependent upon
-        both geometry and music. The size, form, and motion of the celestial
-        bodies is determined by the use of geometry; their harmony and rhythm by
-        the use of music. If astronomy be removed, neither geometry nor music is
-        injured; but if geometry and music be eliminated, astronomy is
-        destroyed. The priority of both geometry and music to astronomy is
-        therefore established. Arithmetic, however, is prior to all; it is
-        primary and fundamental. <em>Theoretic Arithmetic</em>
+        limiting one of its expressions. <br />
+        The Pythagoreans also demonstrated arithmetic to be prior to astronomy,
+        for the latter is dependent upon both geometry and music. The size,
+        form, and motion of the celestial bodies is determined by the use of
+        geometry; their harmony and rhythm by the use of music. If astronomy be
+        removed, neither geometry nor music is injured; but if geometry and
+        music be eliminated, astronomy is destroyed. <br /> The priority of both
+        geometry and music to astronomy is therefore established. Arithmetic,
+        however, is prior to all; it is primary and fundamental.
+        <a href="https://archive.org/details/theoreticarithme0000tayl">
+          <em> Theoretic Arithmetic</em>
+        </a>
       </p>
       <ul>
         <li>
