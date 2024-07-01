@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Thirtythree() {
   return (
@@ -44,6 +45,7 @@ export function Thirtythree() {
         people with the number 33. Also, they help to grow these people and
         support them in the best way possible.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

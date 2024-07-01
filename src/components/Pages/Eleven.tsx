@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Eleven() {
   return (
@@ -43,6 +44,7 @@ export function Eleven() {
         harmonious and loving, and understanding which completes people with
         Master number 11.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }

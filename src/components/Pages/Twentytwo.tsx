@@ -1,4 +1,5 @@
 import styles from "./Mainpage.module.css";
+import Cvlogo from "../../assets/grayscale-transparent.png";
 
 export function Twentytwo() {
   return (
@@ -41,6 +42,7 @@ export function Twentytwo() {
         understand the responsibility that comes with people with life path
         number 22 and harnesses it in the best way possible.
       </p>
+      <img src={Cvlogo} />
     </div>
   );
 }
