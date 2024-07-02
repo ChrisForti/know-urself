@@ -11,10 +11,11 @@ export function Thirtythree() {
         be with. No matter how many challenges they face, these folks never give
         up in life and have a kind attitude towards others. Furthermore, these
         people are compassionate and charismatic. They are highly disciplined
-        and tenacious. Also, they are great manifesting points they desire. They
-        love humanity. Therefore, they serve everybody around them. These folks
-        have leadership qualities, which makes them great orators and teachers.
-        Generally, these people believe in making the world a better place.
+        and tenacious. Also, they are great at manifesting points they desire.
+        They love humanity. Therefore, they serve everybody around them. These
+        folks have leadership qualities, which makes them great orators and
+        teachers. Generally, these people believe in making the world a better
+        place.
       </p>
       <p>
         When we see the negative traits of these people, one shall see that they
@@ -29,7 +30,7 @@ export function Thirtythree() {
       </p>
       <p>
         These people are empathetic and love to strike the boundaries of others.
-        They don’t like to burden themselves with weird or unusual things. But,
+        They do not like to burden themselves with weird or unusual things. But,
         when they see someone in trouble, they never leave anybody alone and use
         their talents and abilities to make the most appropriate choice
         available. People with Master number 33 believe in selflessness. They

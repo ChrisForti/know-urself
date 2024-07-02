@@ -7,7 +7,7 @@ export function Eleven() {
       <h1>Master number 11: The Intuitive Souls</h1>
       <p>
         Individuals born with Master number 11 are spiritually insightful. These
-        natives possess supernatural abilities and high intuition. The energy
+        people possess supernatural abilities and high intuition. The energy
         these people carry knows no bounds. Moreover, they are highly sensitive
         and empathetic beings. They possess broader perspectives and
         imagination. Moreover, folks with Master number 11 are a strong
@@ -28,13 +28,13 @@ export function Eleven() {
         and professional life.
       </p>
       <p>
-        Furthermore, Master number 11 makes the native a positive influence on
-        others. These people may give less time to people who they love. But on
-        the other hand, they are loyal and dedicated partners. When they pick
-        any work, these people make sure they perform their best and set an
-        example for others. Also, Master number 11 people are known to be highly
-        sensual and romantic. Therefore, when they are in bed with their
-        partners, they wish to feel fulfilled.
+        Furthermore, Master number 11 makes a positive influence on others.
+        These people may give less time to people who they love. But on the
+        other hand, they are loyal and dedicated partners. When they pick any
+        work, these people make sure they perform their best and set an example
+        for others. Also, Master number 11 people are known to be highly sensual
+        and romantic. Therefore, when they are in bed with their partners, they
+        wish to feel fulfilled.
       </p>
       <p>
         According to numerology, such people must get their compatibility
