@@ -1,6 +1,6 @@
 # Know Urself
 
-This metaphysical website uses Pythagoras's ancient name numerology to assign a core number to your name based on it's vibrational essence.
+This metaphysical website uses Pythagoras's mathematics, coupled with pyrthagorean name numerology. To assign a Root number to your name based on it's vibrational essence.
 
 ## About The Project
 
