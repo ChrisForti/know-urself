@@ -14,7 +14,7 @@ export function Input({ setChoice }: InputProps) {
   }
   return (
     <form className={styles.form} onSubmit={handleSubmit}>
-      <div>Destiny number generator</div>
+      <div>Your fiest step</div>
       <input
         type="text"
         value={value}
