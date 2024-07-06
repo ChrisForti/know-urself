@@ -117,9 +117,9 @@ export function Sidebar({ setChoice }: SidebarProps) {
       >
         <FontAwesomeIcon icon={faBars} className={styles.icon} />
       </button>
-      {/* <a href="https://codevessel.org"> */}
-      <img src={Logobutton} className={styles.logobutton} />
-      {/* </a> */}
+      <a href="https://codevessel.org">
+        <img src={Logobutton} className={styles.logobutton} />
+      </a>
     </aside>
   );
 }
