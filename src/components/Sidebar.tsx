@@ -3,7 +3,7 @@ import styles from "./Sidebar.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import { Input } from "./Input";
-import Logobutton from "../assets/original-logo-symbol.png";
+import Logobutton from "../assets/Untitled design (3).png";
 
 type SidebarProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -19,7 +19,15 @@ export function Sidebar({ setChoice }: SidebarProps) {
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
-            setChoice(0);
+            setChoice(12);
+          }}
+        >
+          {" "}
+          <a href="#">Input page</a>
+        </li>
+        <li
+          onClick={() => {
+            setChoice(1);
           }}
         >
           <a href="#">Main page</a>

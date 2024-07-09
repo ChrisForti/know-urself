@@ -12,6 +12,7 @@ import { Nine } from "./Pages/Nine";
 import { Eleven } from "./Pages/Eleven";
 import { Twentytwo } from "./Pages/Twentytwo";
 import { Thirtythree } from "./Pages/Thirtythree";
+import { Inputpage } from "./Pages/Inputpage";
 
 type ContentProps = { choice: number };
 
@@ -30,6 +31,7 @@ export function Content({ choice }: ContentProps) {
     11: <Eleven />,
     22: <Twentytwo />,
     33: <Thirtythree />,
+    12: <Inputpage />,
   };
 
   return <main className={styles.main}>{pages[choice]}</main>;
