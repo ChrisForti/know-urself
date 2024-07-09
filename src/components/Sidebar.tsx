@@ -19,7 +19,7 @@ export function Sidebar({ setChoice }: SidebarProps) {
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
-            setChoice(12);
+            setChoice(34);
           }}
         >
           {" "}

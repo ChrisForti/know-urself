@@ -1,12 +1,13 @@
+import styles from "./Mainpage.module.css";
 import { Input } from "../Input";
 
 type InputPageProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
 };
 
-export function InputPagepage({ setChoice }: InputPageProps) {
+export function InputPage({ setChoice }: InputPageProps) {
   return (
-    <div>
+    <div className={styles.main}>
       <Input setChoice={setChoice} />
     </div>
   );
