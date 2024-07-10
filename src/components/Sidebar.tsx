@@ -22,7 +22,6 @@ export function Sidebar({ setChoice }: SidebarProps) {
             setChoice(34);
           }}
         >
-          {" "}
           <a href="#">Input page</a>
         </li>
         <li
