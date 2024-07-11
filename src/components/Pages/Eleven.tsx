@@ -20,12 +20,12 @@ export function Eleven() {
       <p>
         However, on the other hand, these folks take no time to turn arrogant
         and aggressive. They like to self-improve themselves. But, their
-        ambitious and extra proud nature doesn’t let them do so. These natives
-        are highly possessive about their health and sometimes approach the
-        wrong means to achieve things. In the worst-case scenarios, these
-        natives may possess bad habits like smoking, cigarettes, etc. People
-        with Master number 11 cannot also relax and are freaking about working
-        and professional life.
+        ambitious and extra proud nature doesn’t let them do so. Eleven's are
+        highly possessive about their health and sometimes approach the wrong
+        means to achieve things. In the worst-case scenarios, these natives may
+        possess bad habits like smoking, cigarettes, etc. People with Master
+        number 11 cannot also relax and are freaking about working and
+        professional life.
       </p>
       <p>
         Furthermore, Master number 11 makes a positive influence on others.
