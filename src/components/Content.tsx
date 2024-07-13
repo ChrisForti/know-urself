@@ -14,11 +14,14 @@ import { Twentytwo } from "./Pages/Twentytwo";
 import { Thirtythree } from "./Pages/Thirtythree";
 import { InputPage } from "./Pages/Inputpage";
 
-type ContentProps = { choice: number };
+type ContentProps = {
+  choice: number;
+  setChoice: React.Dispatch<React.SetStateAction<number>>;
+};
 
-export function Content({ choice }: ContentProps) {
+export function Content({ choice, setChoice }: ContentProps) {
   const pages: { [key: number]: JSX.Element } = {
-    34: <InputPage />,
+    34: <InputPage setChoice={setChoice} />,
     0: <Mainpage />,
     1: <One />,
     2: <Two />,

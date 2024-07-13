@@ -5,14 +5,14 @@ import { Content } from "./components/Content";
 import { Header } from "./components/Header";
 
 function App() {
-  const [choice, setChoice] = useState(0);
+  const [choice, setChoice] = useState(34);
 
   return (
     <>
       <Header />
       <div className={styles.mainContainer}>
         <Sidebar setChoice={setChoice} />
-        <Content choice={choice} />
+        <Content choice={choice} setChoice={setChoice} />
       </div>
     </>
   );
