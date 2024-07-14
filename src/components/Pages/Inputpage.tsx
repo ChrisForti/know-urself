@@ -8,7 +8,8 @@ type InputPageProps = {
 export function InputPage({ setChoice }: InputPageProps) {
   // const [sidebarOpen, setSidebarOpen] = useState(false);
   return (
-    <div className={styles.main}>
+    <div className={styles.form}>
+      <em>Enter your full name in the box</em>
       <Input setChoice={setChoice} />
     </div>
   );

@@ -2,7 +2,6 @@ import { useState } from "react";
 import styles from "./Sidebar.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
-import { Input } from "./Input";
 import Logobutton from "../assets/Untitled design (3).png";
 
 type SidebarProps = {
@@ -14,7 +13,6 @@ export function Sidebar({ setChoice }: SidebarProps) {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <Input setChoice={setChoice} /> <hr />
       <h4 className={styles.h4}>Navigation through all the destiny numbers</h4>
       <ul className={styles.linkContainer}>
         <li
