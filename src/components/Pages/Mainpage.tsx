@@ -11,41 +11,7 @@ export function Mainpage() {
       <h1 className={styles.h1}>
         In my experience I wandered aimlessly until I truly knew myself.
       </h1>
-      <h4 className={styles.h4}>
-        “Mastering others is strength; mastering oneself is true power” ~~Lao
-        Tsu~~
-      </h4>
-      <h4 className={styles.h4}>
-        "Knowing yourself is the beginning of all wisdom."~~Socrates~~
-      </h4>
-      <h4 className={styles.h4}>
-        Colossians 2:2-3 <br />
-        2. My goal is that they may be encouraged in heart and united in love,
-        so that they may have the full riches of complete understanding, in
-        order that they may know the mystery of God, namely, Christ, 3. in whom
-        are hidden all the treasures of wisdom and knowledge.
-      </h4>
       <img src={Aurora} />
-      <p>
-        Pythagorean name Numerology is a system of interpreting all the numbers
-        of your life, via the letters of your name. Then with simple math we can
-        extrapolating the meaning of the root numbers that are your life. This
-        app will convert each letter of your name, to its corresponding integer.
-        Then by reduction, adding each double integer to a single integer{" "}
-        <b>( example: number is 12, 1+2=3 )</b>. Unless of course, the algorythm
-        finds special circumstances, for now we will call those master numbers.
-      </p>
-      <b> Which will leave us with your Expression number.</b>
-      <br />
-      <p>
-        Your Expression Number reveals your strengths and weaknesses. Also
-        called your <b>Destiny Number</b>, this number provides insight into
-        your natural abilities that will help propel you to your life goals, as
-        well as the challenges you will need to overcome to reach your full
-        potential. You can calculate your destiny Number using your full name
-        given at birth.
-      </p>
-      <img src={Quantum} />
       <p>
         Pythagoras declared arithmetic to be the mother of the mathematical
         sciences. This is proved by the fact that geometry, music, and astronomy
@@ -66,6 +32,7 @@ export function Mainpage() {
           <em> Theoretic Arithmetic</em>
         </a>
       </p>
+      <img src={Quantum} />
       <p>
         In Pythagorean Numerology, each letter of the alphabet has a
         corresponding number. To calculate your Expression Number, first assign

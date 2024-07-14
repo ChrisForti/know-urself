@@ -22,7 +22,6 @@ export function Input({ setChoice }: InputProps) {
         }}
       />
       <button type="submit">Submit</button>
-      <hr className={styles.hr} />
     </form>
   );
 }

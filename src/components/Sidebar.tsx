@@ -13,7 +13,7 @@ export function Sidebar({ setChoice }: SidebarProps) {
 
   return (
     <aside className={`${styles.sidebar} ${sidebarOpen ? styles.show : ""}`}>
-      <h4 className={styles.h4}>Navigation through all the destiny numbers</h4>
+      <h4 className={styles.h4}>Navigation menu for the destiny numbers</h4>
       <ul className={styles.linkContainer}>
         <li
           onClick={() => {
@@ -24,7 +24,7 @@ export function Sidebar({ setChoice }: SidebarProps) {
         </li>
         <li
           onClick={() => {
-            setChoice(1);
+            setChoice(0);
           }}
         >
           <a href="#">Main page</a>
