@@ -50,7 +50,7 @@ export function InputPage({ setChoice }: InputPageProps) {
         <Input setChoice={setChoice} />
       </span>
       <hr className={styles.hr} />
-      <a href="./Mainpage" className={styles.main}>
+      <a href="/Mainpage" className={styles.main}>
         <img src={Cvlogo} />
       </a>
     </main>
