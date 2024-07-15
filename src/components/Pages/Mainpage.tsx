@@ -13,7 +13,7 @@ export function Mainpage() {
       </h1>
       <h4>
         "Restore your connection with the self" <br />
-        ~~Carl Young~~
+        ~~Carl jung~~
       </h4>
       <h4>
         "You have got to stop being machine men, and machine women. Go back to
