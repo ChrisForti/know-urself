@@ -11,10 +11,14 @@ export function Mainpage() {
       <h1 className={styles.h1}>
         In my experience I wandered aimlessly until I truly knew myself.
       </h1>
-      <h4>"Restore your connection with the self" ~~Carl Young~~</h4>
+      <h4>
+        "Restore your connection with the self" <br />
+        ~~Carl Young~~
+      </h4>
       <h4>
         "You have got to stop being machine men, and machine women. Go back to
-        being real human beings" ~~Charlie Chaplin~~
+        being real human beings"
+        <br /> ~~Charlie Chaplin~~
       </h4>
       <img src={Aurora} />
       <p>
