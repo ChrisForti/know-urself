@@ -51,11 +51,7 @@ export function InputPage({ setChoice }: InputPageProps) {
         <Input setChoice={setChoice} />
       </span>
       <hr className={styles.hr} />
-      {/* <Mainpage /> className={styles.main}>
-            <a href="/next-page.html">
-        <button>Go to Next Page</button>
-      </a> */}
-      <a href="/Mainpage">
+      <a href="/InputPage">
         <button className={styles.main}>
           <img src={Cvlogo} />
         </button>
