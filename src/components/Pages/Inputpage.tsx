@@ -1,6 +1,7 @@
 import styles from "./Mainpage.module.css";
 import { Input } from "../Input";
 import Cvlogo from "../../assets/grayscale-transparent.png";
+import { Mainpage } from "./Mainpage";
 
 type InputPageProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -50,8 +51,14 @@ export function InputPage({ setChoice }: InputPageProps) {
         <Input setChoice={setChoice} />
       </span>
       <hr className={styles.hr} />
-      <a href="/Mainpage" className={styles.main}>
-        <img src={Cvlogo} />
+      {/* <Mainpage /> className={styles.main}>
+            <a href="/next-page.html">
+        <button>Go to Next Page</button>
+      </a> */}
+      <a href="/Mainpage">
+        <button className={styles.main}>
+          <img src={Cvlogo} />
+        </button>
       </a>
     </main>
   );
