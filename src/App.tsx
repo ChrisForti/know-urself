@@ -5,7 +5,7 @@ import { Content } from "./components/Content";
 import { Header } from "./components/Header";
 
 function App() {
-  const [choice, setChoice] = useState(34);
+  const [choice, setChoice] = useState(0);
 
   return (
     <>

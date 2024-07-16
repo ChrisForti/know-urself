@@ -8,18 +8,18 @@ import { Table } from "./Table";
 export function Mainpage() {
   return (
     <div className={styles.main}>
-      <h1 className={styles.h1}>
-        In my experience I wandered aimlessly until I truly knew myself.
-      </h1>
-      <h4>
-        "Restore your connection with the self" <br />
-        ~~Carl jung~~
-      </h4>
-      <h4>
-        "You have got to stop being machine men, and machine women. Go back to
-        being real human beings"
-        <br /> ~~Charlie Chaplin~~
-      </h4>
+      <p>
+        Welcome to our Know youself, where we delve into the ancient teachings
+        of Pythagoras and unlock the secrets of your destiny through the power
+        of Pythagorean name numerology. Just as Pythagoras believed in the
+        profound connection between mathematics, and the spiritual world, we
+        invite you to explore the vibrations of your name and discover the
+        hidden meanings encoded within. Let us guide you on a journey to uncover
+        your destiny number and reveal the cosmic significance of your name.
+        Open your mind, embrace the numerological wisdom, and step into the
+        realm of infinite possibilities.
+      </p>
+
       <img src={Aurora} />
       <p>
         Pythagoras declared arithmetic to be the mother of the mathematical

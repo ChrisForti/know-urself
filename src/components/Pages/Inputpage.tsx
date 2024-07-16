@@ -10,7 +10,7 @@ type InputPageProps = {
 export function InputPage({ setChoice }: InputPageProps) {
   return (
     <main className={styles.main}>
-      <h1>Pythagorean name numberology in a nutshell</h1>
+      <h1>Pythagorean name numerology in a nutshell</h1>
       <p>
         Pythagorean name Numerology is a system of interpreting all the numbers
         of your life, via the letters of your name. Then with simple math we can
@@ -30,7 +30,6 @@ export function InputPage({ setChoice }: InputPageProps) {
         potential. You can calculate your destiny Number using your full name
         given at birth.
       </p>
-      <hr className={styles.hr} />
       <h4 className={styles.h4}>
         “Mastering others is strength; mastering oneself is true power” ~~Lao
         Tsu~~
@@ -45,11 +44,24 @@ export function InputPage({ setChoice }: InputPageProps) {
         order that they may know the mystery of God, namely, Christ, 3. in whom
         are hidden all the treasures of wisdom and knowledge.
       </h4>
-      {/* <hr className={styles.hr} /> */}
+      <hr className={styles.hr} />
       <span className={styles.input}>
         <h1>Enter your full name given at birth in the box</h1>
         <Input setChoice={setChoice} />
       </span>
+      <hr className={styles.hr} />
+      <h1 className={styles.h1}>
+        In my experience I wandered aimlessly until I truly knew myself.
+      </h1>
+      <h4>
+        "Restore your connection with the self" <br />
+        ~~Carl jung~~
+      </h4>
+      <h4>
+        "You have got to stop being machine men, and machine women. Go back to
+        being real human beings"
+        <br /> ~~Charlie Chaplin~~
+      </h4>
       <hr className={styles.hr} />
       <a href="/InputPage">
         <button className={styles.main}>
