@@ -71,7 +71,11 @@ export function Mainpage() {
         are of utter importance.
       </p>
       <img src={Thepath} />
-      <img src={Cvlogo} />
+      <a href="/InputPage">
+        <button className={styles.main}>
+          <img src={Cvlogo} />
+        </button>
+      </a>
     </div>
   );
 }
