@@ -1,7 +1,6 @@
 import styles from "./Mainpage.module.css";
 import { Input } from "../Input";
 import Cvlogo from "../../assets/grayscale-transparent.png";
-import { Mainpage } from "./Mainpage";
 
 type InputPageProps = {
   setChoice: React.Dispatch<React.SetStateAction<number>>;
@@ -62,8 +61,7 @@ export function InputPage({ setChoice }: InputPageProps) {
         being real human beings"
         <br /> ~~Charlie Chaplin~~
       </h4>
-      <hr className={styles.hr} />
-      <a href="/InputPage">
+      <a href="/Mainpage">
         <button className={styles.main}>
           <img src={Cvlogo} />
         </button>
