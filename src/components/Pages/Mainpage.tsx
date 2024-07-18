@@ -8,6 +8,8 @@ import { Table } from "./Table";
 export function Mainpage() {
   return (
     <div className={styles.main}>
+      {" "}
+      <h1>Main Page</h1>
       <p>
         Welcome to our Know youself, where we delve into the ancient teachings
         of Pythagoras and unlock the secrets of your destiny through the power
@@ -19,7 +21,6 @@ export function Mainpage() {
         Open your mind, embrace the numerological wisdom, and step into the
         realm of infinite possibilities.
       </p>
-
       <img src={Aurora} />
       <p>
         Pythagoras declared arithmetic to be the mother of the mathematical
