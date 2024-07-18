@@ -8,7 +8,7 @@ import { Table } from "./Table";
 export function Mainpage() {
   return (
     <div className={styles.main}>
-      <h1>Main Page</h1>
+      <h1>Theory page</h1>
       <p>
         Welcome to our Know youself, where we delve into the ancient teachings
         of Pythagoras and unlock the secrets of your destiny through the power
