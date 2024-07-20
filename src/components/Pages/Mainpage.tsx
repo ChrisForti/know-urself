@@ -71,7 +71,7 @@ export function Mainpage() {
         are of utter importance.
       </p>
       <img src={Thepath} />
-      <a href="/InputPage">
+      <a href={import.meta.env.BASE_URL + "/Mainpage"}>
         <button className={styles.main}>
           <img src={Cvlogo} />
         </button>

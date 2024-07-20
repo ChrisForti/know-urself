@@ -61,7 +61,7 @@ export function InputPage({ setChoice }: InputPageProps) {
         being real human beings"
         <br /> ~~Charlie Chaplin~~
       </h4>
-      <a href="/Mainpage">
+      <a href={import.meta.env.BASE_URL + "/Mainpage"}>
         <button className={styles.main}>
           <img src={Cvlogo} />
         </button>
