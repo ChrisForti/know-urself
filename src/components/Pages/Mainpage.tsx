@@ -71,10 +71,18 @@ export function Mainpage() {
         are of utter importance.
       </p>
       <img src={Thepath} />
-      <a href={import.meta.env.BASE_URL + "/Mainpage"}>
+      {/* <a href={import.meta.env.BASE_URL + "/Inputpage"}>
         <button className={styles.main}>
           <img src={Cvlogo} />
         </button>
+      </a> */}
+      {/* <a href={`${process.env.PUBLIC_URL}/Inputpage`}>
+        <button className={styles.main}>
+          <img src={Cvlogo} alt="CV Logo" />
+        </button>
+      </a> */}
+      <a href="/Inputpage">
+        <button type="submit">Input Page</button>
       </a>
     </div>
   );
