@@ -61,6 +61,12 @@ export function InputPage({ setChoice }: InputPageProps) {
         being real human beings"
         <br /> ~~Charlie Chaplin~~
       </h4>
+      <h4>
+        "No problems have ever been solved by the same consciousness that
+        created them"
+        <br />
+        ~~Albert Einstein~~
+      </h4>
       <a href={import.meta.env.BASE_URL + "/Mainpage"}>
         <button className={styles.main}>
           <img src={Cvlogo} />
