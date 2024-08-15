@@ -1,6 +1,8 @@
 .main {
   font-size: large;
-  margin: 3rem;
+  margin: 1rem;
+  text-align: center;
+  padding: 8px;
 }
 
 .h4 {
