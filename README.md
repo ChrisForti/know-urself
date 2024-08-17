@@ -7,14 +7,14 @@ This metaphysical website uses Pythagoras's mathematics, coupled with pyrthagore
 This webapp will calculate your destiny number, based on pythagorean numerology.
 Once your name number has been calculated, the site will give the corresponding number and info to the user.
 
-### Built With
+## Built with
 
-![html]
-![css]
-![javascript]
-![typescript]
-![vite]
-![react]
+- ![html](https://img.shields.io/badge/HTML-5-orange)
+- ![css](https://img.shields.io/badge/CSS-3-blue)
+- ![javascript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![typescript](https://img.shields.io/badge/TypeScript-4.4-blue)
+- ![vite](https://img.shields.io/badge/Vite-2.6-green)
+- ![react](https://img.shields.io/badge/React-19-blue)
 
 <!-- GETTING STARTED -->
 
